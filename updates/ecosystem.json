@@ -1,0 +1,37 @@
+{
+  "organization": "VietApps",
+  "tagline": "Hệ sinh thái Phần mềm Giáo dục Việt Nam",
+  "copyright": "© 2026 Lê Phúc Nhã Thịnh • Phục vụ Giáo dục Miễn phí",
+  "contact": {
+    "hotline": "0775426999",
+    "email": "vietapps.official@gmail.com",
+    "zalo": "https://zalo.me/0775426999",
+    "website": "https://github.com/nhathinh2703/VietApps-Releases"
+  },
+  "apps": [
+    {
+      "id": "vietmix",
+      "name": "VietMix",
+      "description": "Chuẩn hóa & Trộn đề thi GDPT 2018 (Word + Excel)",
+      "status": "official"
+    },
+    {
+      "id": "viettest",
+      "name": "VietTest",
+      "description": "Hệ thống Kiểm tra & Đánh giá năng lực học sinh",
+      "status": "upcoming"
+    },
+    {
+      "id": "vietfix",
+      "name": "VietFix",
+      "description": "Chuẩn hóa định dạng Word & Chữa lỗi đề thi",
+      "status": "upcoming"
+    },
+    {
+      "id": "vietlan",
+      "name": "VietLAN",
+      "description": "Thi trắc nghiệm qua mạng nội bộ không cần Internet",
+      "status": "upcoming"
+    }
+  ]
+}
