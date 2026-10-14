@@ -1,11 +1,11 @@
 {
   "appId": "VietMix",
   "appName": "VietMix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minRequiredVersion": "1.0.0",
   "releaseDate": "2026-10-14",
-  "downloadUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/download/v1.0.0/VietMix_v1.0.0.zip",
+  "downloadUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/download/v1.0.1/VietMix_v1.0.1.zip",
   "sha256": "",
-  "changelog": "- Phiên bản chính thức đầu tiên v1.0.0 chuẩn GDPT 2018.\n- Bóc tách chuẩn 4 dạng câu hỏi: Nhiều lựa chọn, Đúng/Sai với nhãn Biết-Hiểu-Vận dụng, Trả lời ngắn, Tự luận.\n- Bảo toàn 100% công thức MathType và hình ảnh sắc nét từ Word gốc.\n- Xáo trộn thông minh cân bằng tỉ lệ đáp án (~25%), hỗ trợ câu chùm và thẻ [cd] cố định.\n- Tích hợp công cụ cập nhật tự động VietUpdate.",
+  "changelog": "- Đồng bộ thanh Footer hệ sinh thái VietApps cùng màu Header sang trọng.\n- Bổ sung cơ chế Offline-First tự động đồng bộ thông tin liên hệ từ xa.\n- Tối ưu hóa hiệu năng hiển thị và bảo toàn công thức toán học MathType.",
   "isMandatory": false
 }
