@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "80016F83B29132B5AA792587E16C9337BEBADBB597F695D6972EBB0179770F12",
-    "changelog":  "- Phiên bản phát hành chính thức đầu tiên của VietMix.\n- Chuẩn hóa và Trộn đề thi Trắc nghiệm theo Chương trình GDPT 2018.\n- Tự động nhận diện 4 dạng câu hỏi: Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn, Tự luận.\n- Giao diện Xem trước đề thi trực quan: Nổi bật đáp án Đúng (xanh lá) và đáp án Sai (hồng/đỏ nhẹ).\n- Tự động viết hoa tiêu đề hành chính (Cấp trên, Trường, Kỳ kiểm tra).\n- Tích hợp danh mục Môn học và Năm học xổ xuống tiện lợi, cho phép gõ tự do.\n- Hỗ trợ xuất đề gốc, đề cương ôn tập, ma trận và bảng đáp án Word đẹp mắt.\n- Tích hợp sẵn công cụ cập nhật tự động VietUpdate độc lập (Full Self-contained).",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
+    "sha256":  "2F8573E681E8DEFBF56537023A2548E4CACFD3FF0A52877C9E1CA3A35646B89E",
+    "changelog":  "- Tự động kiểm tra phiên bản mới khi khởi động ứng dụng và hiển thị huy hiệu NEW nổi bật trên thanh tiêu đề khi có bản cập nhật.\n- Bổ sung tính năng Quên mật khẩu: Nhận liên kết đặt lại mật khẩu an toàn và nhanh chóng qua Email.\n- Tinh chỉnh ô chọn Năm học trong phần trộn đề: Menu xổ xuống gọn gàng, hiển thị 1 cột duy nhất, không trùng lặp.\n- Nút \"Đổi mã khác\" rút gọn thành biểu tượng tròn 🔄 tinh gọn, căn chỉnh thẳng hàng và trực quan.\n- Cải tiến biểu tượng CSDL dưới thanh chân trang (Footer) sang màu vàng nổi bật, dễ quan sát.\n- Tích hợp công cụ cập nhật tự động VietUpdate Full Self-contained chạy độc lập không phụ thuộc môi trường cài đặt.",
     "isMandatory":  false
 }
