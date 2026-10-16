@@ -1,11 +1,11 @@
 {
-    "appId":  "VietMix",
-    "appName":  "VietMix",
-    "version":  "1.0.0",
-    "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "4319589B0576DD49E19CBC817E55D96504E63D1F5DD8CDEA83DCC6A17F670122",
-    "changelog":  "- PhiÃªn báº£n phÃ¡t hÃ nh chÃ­nh thá»©c Ä‘áº§u tiÃªn.\n- Chuáº©n hÃ³a vÃ  Trá»™n Ä‘á» thi Tráº¯c nghiá»‡m theo ChÆ°Æ¡ng trÃ¬nh GDPT 2018.\n- Tá»± Ä‘á»™ng nháº­n diá»‡n vÃ  tÃ­nh Ä‘iá»ƒm 4 dáº¡ng cÃ¢u há»i (Tráº¯c nghiá»‡m, ÄÃºng/Sai, Tráº£ lá»i ngáº¯n, Tá»± luáº­n).\n- ThÃªm nÃºt Ä‘á»•i bá»™ mÃ£ Ä‘á» ngáº«u nhiÃªn (tÆ°Æ¡ng tá»± captcha).\n- Tá»± Ä‘á»™ng viáº¿t hoa tiÃªu Ä‘á» hÃ nh chÃ­nh (Cáº¥p trÃªn, TrÆ°á»ng, Ká»³ kiá»ƒm tra).\n- TÃ­ch há»£p danh má»¥c MÃ´n há»c vÃ  NÄƒm há»c xá»• xuá»‘ng tiá»‡n lá»£i, cho phÃ©p gÃµ tá»± do.\n- Há»— trá»£ xuáº¥t Ä‘á» gá»‘c, Ä‘á» cÆ°Æ¡ng Ã´n táº­p, ma tráº­n vÃ  báº£ng Ä‘Ã¡p Ã¡n Word Ä‘áº¹p máº¯t.\n- TÃ­ch há»£p sáºµn cÃ´ng cá»¥ cáº­p nháº­t tá»± Ä‘á»™ng VietUpdate.",
-    "isMandatory":  false
+  "appId": "VietMix",
+  "appName": "VietMix",
+  "version": "1.0.0",
+  "minRequiredVersion": "1.0.0",
+  "releaseDate": "2026-10-16",
+  "downloadUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
+  "sha256": "88AD6B1D0717B5054EFDAE04A024812869E10F231280753D9C7BEF2A5EB22038",
+  "changelog": "- Phiên bản phát hành chính thức đầu tiên.\n- Chuẩn hóa và Trộn đề thi Trắc nghiệm theo Chương trình GDPT 2018.\n- Tự động nhận diện và tính điểm 4 dạng câu hỏi (Trắc nghiệm, Đúng/Sai, Trả lời ngắn, Tự luận).\n- Thêm nút đổi bộ mã đề ngẫu nhiên (tương tự captcha).\n- Tự động viết hoa tiêu đề hành chính (Cấp trên, Trường, Kỳ kiểm tra).\n- Tích hợp danh mục Môn học và Năm học xổ xuống tiện lợi, cho phép gõ tự do.\n- Hỗ trợ xuất đề gốc, đề cương ôn tập, ma trận và bảng đáp án Word đẹp mắt.\n- Tích hợp sẵn công cụ cập nhật tự động VietUpdate.",
+  "isMandatory": false
 }
