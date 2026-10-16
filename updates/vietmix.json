@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-16",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.2/VietMix_v1.0.2.zip",
-    "sha256":  "C56C168F367674ECB1C17B012FAC8F8BF8DFA4601CE737A328DEE00290530FCB",
-    "changelog":  "- Tinh chỉnh giao diện thanh chân trang (Footer): Biểu tượng và chữ CSDL chuyển sang màu trắng đồng bộ, thanh lịch và trang nhã.\n- Tự động kiểm tra phiên bản mới khi khởi động ứng dụng và hiển thị huy hiệu NEW nổi bật trên thanh tiêu đề khi có bản cập nhật.\n- Bổ sung tính năng Quên mật khẩu: Nhận liên kết đặt lại mật khẩu an toàn và nhanh chóng qua Email.\n- Tinh chỉnh ô chọn Năm học trong phần trộn đề: Menu xổ xuống gọn gàng, hiển thị 1 cột duy nhất, không trùng lặp.\n- Nút \"Đổi mã khác\" rút gọn thành biểu tượng tròn 🔄 tinh gọn, căn chỉnh thẳng hàng và trực quan.\n- Tích hợp công cụ cập nhật tự động VietUpdate Full Self-contained chạy độc lập không phụ thuộc môi trường cài đặt.",
+    "sha256":  "297C7DA0266A340DF403F57C461C294F3A82129639AE7A97234B16E5BAF070D1",
+    "changelog":  "- Khắc phục triệt để lỗi khoá tệp System.Private.CoreLib.dll khi cập nhật tự động (VietUpdate tự động chuyển sang thư mục tạm Temp và giải phóng tệp hoàn toàn).\n- Hoàn thiện tính năng cập nhật tự động mượt mà, độc lập, không yêu cầu người dùng thao tác thủ công.\n- Tinh chỉnh giao diện thanh chân trang (Footer): Biểu tượng và chữ CSDL chuyển sang màu trắng đồng bộ, thanh lịch và trang nhã.\n- Tự động kiểm tra phiên bản mới khi khởi động ứng dụng và hiển thị huy hiệu NEW nổi bật trên thanh tiêu đề khi có bản cập nhật.\n- Bổ sung tính năng Quên mật khẩu: Nhận liên kết đặt lại mật khẩu an toàn và nhanh chóng qua Email.\n- Tinh chỉnh ô chọn Năm học trong phần trộn đề: Menu xổ xuống gọn gàng, hiển thị 1 cột duy nhất, không trùng lặp.\n- Nút \"Đổi mã khác\" rút gọn thành biểu tượng tròn 🔄 tinh gọn, căn chỉnh thẳng hàng và trực quan.",
     "isMandatory":  false
 }
