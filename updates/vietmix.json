@@ -1,11 +1,11 @@
 {
-  "appId": "VietMix",
-  "appName": "VietMix",
-  "version": "1.0.0",
-  "minRequiredVersion": "1.0.0",
-  "releaseDate": "2026-10-16",
-  "downloadUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-  "sha256": "88AD6B1D0717B5054EFDAE04A024812869E10F231280753D9C7BEF2A5EB22038",
-  "changelog": "- Phiên bản phát hành chính thức đầu tiên.\n- Chuẩn hóa và Trộn đề thi Trắc nghiệm theo Chương trình GDPT 2018.\n- Tự động nhận diện và tính điểm 4 dạng câu hỏi (Trắc nghiệm, Đúng/Sai, Trả lời ngắn, Tự luận).\n- Thêm nút đổi bộ mã đề ngẫu nhiên (tương tự captcha).\n- Tự động viết hoa tiêu đề hành chính (Cấp trên, Trường, Kỳ kiểm tra).\n- Tích hợp danh mục Môn học và Năm học xổ xuống tiện lợi, cho phép gõ tự do.\n- Hỗ trợ xuất đề gốc, đề cương ôn tập, ma trận và bảng đáp án Word đẹp mắt.\n- Tích hợp sẵn công cụ cập nhật tự động VietUpdate.",
-  "isMandatory": false
+    "appId":  "VietMix",
+    "appName":  "VietMix",
+    "version":  "1.0.0",
+    "minRequiredVersion":  "1.0.0",
+    "releaseDate":  "2026-10-16",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
+    "sha256":  "D2FE6679A190FFF56E9C5F13936957A650048F599A3DD8AFA0E303DC3FD0BD41",
+    "changelog":  "- Phiên bản phát hành chính thức đầu tiên.\n- Chuẩn hóa và Trộn đề thi Trắc nghiệm theo Chương trình GDPT 2018.\n- Tự động nhận diện và tính điểm 4 dạng câu hỏi (Trắc nghiệm, Đúng/Sai, Trả lời ngắn, Tự luận).\n- Thêm nút đổi bộ mã đề ngẫu nhiên (tương tự captcha).\n- Tự động viết hoa tiêu đề hành chính (Cấp trên, Trường, Kỳ kiểm tra).\n- Tích hợp danh mục Môn học và Năm học xổ xuống tiện lợi, cho phép gõ tự do.\n- Hỗ trợ xuất đề gốc, đề cương ôn tập, ma trận và bảng đáp án Word đẹp mắt.\n- Tích hợp sẵn công cụ cập nhật tự động VietUpdate.",
+    "isMandatory":  false
 }
