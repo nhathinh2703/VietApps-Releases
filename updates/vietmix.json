@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-16",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "A9407339B88377E3F9D77829BE2A10C337DC076DC55BC5BA254F65FE8CA49FDF",
+    "sha256":  "EB4213BE7DB58A883D1E84EB0077009A35160E6A3A1FCEA9243A3AE5D5CE1357",
     "changelog":  "- Nâng cấp giao diện Xem trước đề thi trực quan, sắc nét hơn.\n- Tăng độ tương phản màu nền xanh lá cho phương án đúng, dễ nhận diện trên mọi loại màn hình.\n- Bổ sung màu nền hồng/đỏ nhẹ và huy hiệu riêng cho phương án sai trong câu hỏi Đúng/Sai.\n- Thêm nhãn xác nhận đáp án đúng cho câu hỏi trắc nghiệm nhiều lựa chọn.\n- Tối ưu hóa hiệu năng hiển thị và bóc tách đề thi.",
     "isMandatory":  false
 }
