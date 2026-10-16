@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "A67A23AEB77DBDCCD42B6E7776798557753A9820C3AEB5E317B36EA52EB124E1",
-    "changelog":  "- Tự động kiểm tra phiên bản mới khi khởi động ứng dụng và hiển thị huy hiệu NEW nổi bật trên thanh tiêu đề khi có bản cập nhật.\n- Bổ sung tính năng Quên mật khẩu: Nhận liên kết đặt lại mật khẩu an toàn và nhanh chóng qua Email.\n- Tinh chỉnh ô chọn Năm học trong phần trộn đề: Menu xổ xuống gọn gàng, hiển thị 1 cột duy nhất, không trùng lặp.\n- Nút \"Đổi mã khác\" rút gọn thành biểu tượng tròn 🔄 tinh gọn, căn chỉnh thẳng hàng và trực quan.\n- Cải tiến biểu tượng CSDL dưới thanh chân trang (Footer) sang màu vàng nổi bật, dễ quan sát.\n- Tích hợp công cụ cập nhật tự động VietUpdate Full Self-contained chạy độc lập không phụ thuộc môi trường cài đặt.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.2/VietMix_v1.0.2.zip",
+    "sha256":  "C56C168F367674ECB1C17B012FAC8F8BF8DFA4601CE737A328DEE00290530FCB",
+    "changelog":  "- Tinh chỉnh giao diện thanh chân trang (Footer): Biểu tượng và chữ CSDL chuyển sang màu trắng đồng bộ, thanh lịch và trang nhã.\n- Tự động kiểm tra phiên bản mới khi khởi động ứng dụng và hiển thị huy hiệu NEW nổi bật trên thanh tiêu đề khi có bản cập nhật.\n- Bổ sung tính năng Quên mật khẩu: Nhận liên kết đặt lại mật khẩu an toàn và nhanh chóng qua Email.\n- Tinh chỉnh ô chọn Năm học trong phần trộn đề: Menu xổ xuống gọn gàng, hiển thị 1 cột duy nhất, không trùng lặp.\n- Nút \"Đổi mã khác\" rút gọn thành biểu tượng tròn 🔄 tinh gọn, căn chỉnh thẳng hàng và trực quan.\n- Tích hợp công cụ cập nhật tự động VietUpdate Full Self-contained chạy độc lập không phụ thuộc môi trường cài đặt.",
     "isMandatory":  false
 }
