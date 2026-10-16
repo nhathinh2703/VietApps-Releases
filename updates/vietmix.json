@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.2.0",
+    "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.2.0/VietMix_v1.2.0.zip",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
     "sha256":  "4319589B0576DD49E19CBC817E55D96504E63D1F5DD8CDEA83DCC6A17F670122",
-    "changelog":  "- Chuáº©n hÃ³a giao diá»‡n trá»±c quan theo chuáº©n GDPT 2018.\n- Tá»± Ä‘á»™ng nháº­n diá»‡n vÃ  tÃ­nh Ä‘iá»ƒm 4 dáº¡ng cÃ¢u há»i (Tráº¯c nghiá»‡m, ÄÃºng/Sai, Tráº£ lá»i ngáº¯n, Tá»± luáº­n).\n- ThÃªm nÃºt Ä‘á»•i bá»™ mÃ£ Ä‘á» ngáº«u nhiÃªn (tÆ°Æ¡ng tá»± captcha).\n- Tá»± Ä‘á»™ng viáº¿t hoa tiÃªu Ä‘á» hÃ nh chÃ­nh (Cáº¥p trÃªn, TrÆ°á»ng, Ká»³ kiá»ƒm tra).\n- TÃ­ch há»£p danh má»¥c MÃ´n há»c vÃ  NÄƒm há»c xá»• xuá»‘ng tiá»‡n lá»£i, cho phÃ©p gÃµ tá»± do.\n- Bá»• sung cáº¥u hÃ¬nh giÃ£n Ä‘oáº¡n cÃ¢u há»i Spacing Before/After vÃ  xuáº¥t Ä‘á» cÆ°Æ¡ng Ã´n táº­p.",
+    "changelog":  "- PhiÃªn báº£n phÃ¡t hÃ nh chÃ­nh thá»©c Ä‘áº§u tiÃªn.\n- Chuáº©n hÃ³a vÃ  Trá»™n Ä‘á» thi Tráº¯c nghiá»‡m theo ChÆ°Æ¡ng trÃ¬nh GDPT 2018.\n- Tá»± Ä‘á»™ng nháº­n diá»‡n vÃ  tÃ­nh Ä‘iá»ƒm 4 dáº¡ng cÃ¢u há»i (Tráº¯c nghiá»‡m, ÄÃºng/Sai, Tráº£ lá»i ngáº¯n, Tá»± luáº­n).\n- ThÃªm nÃºt Ä‘á»•i bá»™ mÃ£ Ä‘á» ngáº«u nhiÃªn (tÆ°Æ¡ng tá»± captcha).\n- Tá»± Ä‘á»™ng viáº¿t hoa tiÃªu Ä‘á» hÃ nh chÃ­nh (Cáº¥p trÃªn, TrÆ°á»ng, Ká»³ kiá»ƒm tra).\n- TÃ­ch há»£p danh má»¥c MÃ´n há»c vÃ  NÄƒm há»c xá»• xuá»‘ng tiá»‡n lá»£i, cho phÃ©p gÃµ tá»± do.\n- Há»— trá»£ xuáº¥t Ä‘á» gá»‘c, Ä‘á» cÆ°Æ¡ng Ã´n táº­p, ma tráº­n vÃ  báº£ng Ä‘Ã¡p Ã¡n Word Ä‘áº¹p máº¯t.\n- TÃ­ch há»£p sáºµn cÃ´ng cá»¥ cáº­p nháº­t tá»± Ä‘á»™ng VietUpdate.",
     "isMandatory":  false
 }
