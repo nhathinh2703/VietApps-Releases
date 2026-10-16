@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.3",
+    "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.3/VietMix_v1.0.3.zip",
-    "sha256":  "9BE30B5C33C3766B3C7D9CCB8ED34B20F98D11B93F4092948375BE05758FC62A",
-    "changelog":  "- Tinh chỉnh giao diện hộp thoại thông tin cập nhật súc tích, tinh gọn và chuyên nghiệp.\n- Cập nhật định dạng hiển thị phiên bản mới nhất rõ ràng, trực quan.\n- Tự động kiểm tra và nâng cấp mượt mà qua hệ thống VietUpdate độc lập.\n- Tối ưu hóa hiệu năng và độ ổn định tổng thể của phần mềm.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
+    "sha256":  "6BF6C6ED3D73AB0847BF58703C44E27B0C536B5E3607FA15BC8DF1799AD20791",
+    "changelog":  "- Bản phát hành chính thức đầu tiên của VietMix - Chuẩn hóa \u0026 Trộn đề thi GDPT 2018.\n- Bóc tách và chuẩn hóa chính xác 4 dạng thức câu hỏi theo chuẩn GDPT 2018.\n- Bảo toàn trọn vẹn 100% công thức MathType và hình ảnh sắc nét từ tệp Word gốc.\n- Thuật toán hoán vị thông minh, cân bằng xác suất đáp án, hỗ trợ câu chùm và nhóm cố định.\n- Xuất đề thi Word (.docx) chuẩn thể thức và bảng ma trận đáp án Excel (.xlsx) thông minh.\n- Tích hợp công cụ cập nhật tự động VietUpdate độc lập, an toàn và tiện lợi.",
     "isMandatory":  false
 }
