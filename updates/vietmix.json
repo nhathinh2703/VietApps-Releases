@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "6BF6C6ED3D73AB0847BF58703C44E27B0C536B5E3607FA15BC8DF1799AD20791",
-    "changelog":  "- Bản phát hành chính thức đầu tiên của VietMix - Chuẩn hóa \u0026 Trộn đề thi GDPT 2018.\n- Bóc tách và chuẩn hóa chính xác 4 dạng thức câu hỏi theo chuẩn GDPT 2018.\n- Bảo toàn trọn vẹn 100% công thức MathType và hình ảnh sắc nét từ tệp Word gốc.\n- Thuật toán hoán vị thông minh, cân bằng xác suất đáp án, hỗ trợ câu chùm và nhóm cố định.\n- Xuất đề thi Word (.docx) chuẩn thể thức và bảng ma trận đáp án Excel (.xlsx) thông minh.\n- Tích hợp công cụ cập nhật tự động VietUpdate độc lập, an toàn và tiện lợi.",
+    "releaseDate":  "2026-10-18",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
+    "sha256":  "2404B61BA57D271B400037D69652B0C4D6F254EE4F5505CC8EB7CE9C58B9042A",
+    "changelog":  "- Tinh chỉnh giao diện xem trước: màu mức độ nhận thức (Biết - Hiểu - Vận dụng) dịu mắt, rõ ràng và dễ phân biệt.\n- Tối ưu hóa hướng dẫn 4 dạng thức câu hỏi tại trang chủ ngắn gọn, trực quan.\n- Tinh gọn các biểu mẫu đăng nhập, đăng ký và hỗ trợ đặt lại mật khẩu nhanh qua Email.\n- Dọn dẹp cấu trúc CSDL cục bộ, tối ưu hóa lưu trữ ảnh câu hỏi trực tiếp trong CSDL.\n- Tối ưu hiệu năng trộn đề và kiểm tra cập nhật tự động mượt mà.",
     "isMandatory":  false
 }
