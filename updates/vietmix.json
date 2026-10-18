@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.3",
+    "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.3/VietMix_v1.0.3.zip",
-    "sha256":  "C3782F1A4E90098E371E263ED5EDDFE098F3E00B83134B61807BFC42B621352B",
-    "changelog":  "- Chuẩn hóa tên tệp xuất: Toàn bộ file Word và Excel xuất ra (đề thi, đáp án, đề cương, mẫu danh mục) đều có tiền tố VietMix_ dễ quản lý.\n- Chỉnh sửa câu hỏi trong Ngân hàng: Thêm nút Sửa (✏️) trực tiếp trên từng câu hỏi trong kho đề để cập nhật nội dung, đáp án, mức độ.\n- Xuất Ngân hàng câu hỏi ra Word: Xuất toàn bộ hoặc lọc theo môn/khối ra file Word chuẩn GDPT 2018 kèm mã định danh [#VM_...].\n- Cơ chế chống trùng lặp thông minh: Tự động phát hiện câu hỏi đã tồn tại khi nạp từ file Word (Cập nhật đè / Bỏ qua / Thêm mới).\n- Tinh chỉnh nhãn Phiên bản: Bỏ icon xoay, hiển thị nhãn \"Có phiên bản mới\" tông màu vàng ấm nổi bật và dễ nhìn khi có bản nâng cấp.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
+    "sha256":  "6488587D719E6EDADF015DD165699019A30623FE753AD8C605C3A1921F49803E",
+    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức (Hệ sinh thái VietApps)\n\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Bóc tách đề thi từ file Word (.docx), nhận diện 4 phần câu hỏi theo chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType, hình ảnh, bảng biểu.\n- **Ngân hàng câu hỏi \u0026 Ma trận đề thi:** Quản lý kho câu hỏi thông minh, sinh ma trận đề, tạo đề thi tự động, lưu trữ lịch sử đề thi đã sinh.\n- **Tương thích hoàn hảo với VietTest:** Xuất đề thi chuẩn hóa kết nối trực tiếp với hệ sinh thái thi và kiểm tra trực tuyến VietTest.\n- **Đồng bộ nhận diện thương hiệu:** Giao diện Header, Sub-navbar 5 tab và Footer chuẩn hóa hiện đại, đồng nhất phong cách thiết kế với VietTest.\n- **Cài đặt hệ thống toàn trang:** Tùy biến thông tin đơn vị giáo dục, cấu hình in ấn \u0026 xuất bản Word, quản trị CSDL SQLite an toàn tại AppData.\n- **Cập nhật tự động VietUpdate:** Tích hợp bộ cập nhật chuẩn VietUpdate, hỗ trợ nâng cấp phần mềm mượt mà, nhanh chóng và an toàn.",
     "isMandatory":  false
 }
