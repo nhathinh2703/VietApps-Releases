@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.0/VietTest_v1.0.0.zip",
-    "sha256":  "6D7AFC9A328AD8940C99D5C65E1223DD5BF4A7E178EFB63320109D4DCD6D1E2C",
+    "sha256":  "F32872D275ED4505E612CA810FF1A762B6B01486A8AE7DAEB2D87D13217951F9",
     "changelog":  "### VietTest v1.0.0 - Bản phát hành chính thức\n\n- **Tổ chức thi \u0026 Đánh giá năng lực:** Quản lý kỳ thi, phòng thi, ma trận đề, chữ ký số và chấm thi tự động chuẩn GDPT 2018.\n- **Giao diện làm bài Responsive:** Tối ưu hóa trải nghiệm làm bài mượt mà trên máy tính, máy tính bảng và điện thoại.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
