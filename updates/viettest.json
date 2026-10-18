@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.1/VietTest_v1.0.1.zip",
-    "sha256":  "03078F826163FFBCB2B88A1017EB9211C5A042FF5C1D6583B9A3A901BACB8645",
-    "changelog":  "### VietTest v1.0.1 - Cáº¥u hÃ¬nh Barem mÃ´n thi \u0026 Tá»‘i Æ°u CSDL Ká»³ thi\n\n- **Cáº¥u hÃ¬nh Barem Ä‘iá»ƒm theo mÃ´n há»c:** Cho phÃ©p giÃ¡o viÃªn linh hoáº¡t cáº¥u hÃ¬nh thang Ä‘iá»ƒm cho tá»«ng mÃ´n (Chuáº©n TN THPT Tin há»c 12: Pháº§n I 24 cÃ¢u x 0.25Ä‘, Pháº§n II 4 cÃ¢u x 1.0Ä‘; Chuáº©n TN THPT ToÃ¡n 12; ÄÃ¡nh giÃ¡ Ä‘á»‹nh ká»³ 7Ä‘ TN + 3Ä‘ TL; TÃ¹y chá»‰nh).\n- **Kháº¯c phá»¥c triá»‡t Ä‘á»ƒ lÆ°u trá»¯ ká»³ thi:** Tá»‘i Æ°u hÃ³a serialization SQLite vÃ  file dá»± phÃ²ng, xá»­ lÃ½ an toÃ n cÃ¡c pháº§n tá»­ OpenXml vÃ  cáº¥u trÃºc Ä‘á» thi Word (.docx) náº¡p tá»« VietMix, Ä‘áº£m báº£o lÆ°u trá»¯ bá»n vá»¯ng khi thoÃ¡t á»©ng dá»¥ng.\n- **Báº£ng danh sÃ¡ch thÃ­ sinh trong ca thi:** Tá»‘i Æ°u autofit báº£ng, Ã¡p dá»¥ng chá»‘ng xuá»‘ng dÃ²ng tÃªn há»c sinh, thay nÃºt chuyá»ƒn ca báº±ng icon gá»n gÃ ng cÃ³ chÃº thÃ­ch tooltip.\n- **Xuáº¥t danh sÃ¡ch thÃ­ sinh toÃ n ká»³ thi:** NÃºt \u0027Xuáº¥t danh sÃ¡ch thÃ­ sinh\u0027 vá»›i icon Excel chuáº©n, xuáº¥t toÃ n bá»™ thÃ­ sinh cÃ¡c ca thi thÃ nh file Excel Ä‘a sheet thuáº­n tiá»‡n.\n- **NÃ¢ng cáº¥p Ä‘á»™ á»•n Ä‘á»‹nh máº¡ng LAN \u0026 GiÃ¡m sÃ¡t:** Tá»‘i Æ°u cháº¥m Ä‘iá»ƒm tá»± Ä‘á»™ng cÃ¡c pháº§n tráº¯c nghiá»‡m I, II, III theo Ä‘Ãºng cáº¥u hÃ¬nh barem riÃªng cá»§a ca thi.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.2/VietTest_v1.0.2.zip",
+    "sha256":  "CE9E6A8D78F7E268B0CA07BF8DB76D3A344068F1719512A72CD9863B312721CC",
+    "changelog":  "### VietTest v1.0.2 - Đồng nhất Nhận diện Hệ sinh thái VietApps \u0026 Tối ưu Giao diện\n\n- **Đồng nhất thanh chân trang (Footer):** Chuẩn hóa toàn bộ thanh Footer tương đồng hoàn hảo với VietMix (thương hiệu bản quyền © 2026 Lê Phúc Nhã Thịnh, CSDL SQLite với tệp dữ liệu động, Hotline/Zalo và Email hỗ trợ).\n- **Phân cách bằng ký hiệu đứng (|):** Thay thế toàn bộ dấu chấm phân cách trên Footer thành dấu | thanh mảnh, hiện đại và đồng bộ toàn hệ sinh thái.\n- **Huy hiệu cập nhật \u0027Mới\u0027:** Tinh giản nhãn thông báo phiên bản mới trên thanh Header thành chữ \u0027Mới\u0027 gọn gàng với hiệu ứng nhấp nháy nổi bật.\n- **Cân đối giao diện Header:** Chuẩn hóa chiều cao 36px (h-9) cho bộ chọn Năm học, Khung tài khoản giáo viên và Nút khóa ứng dụng, đảm bảo bố cục hài hòa, không lệch hàng.\n- **Hiển thị nhật ký phiên bản hiện tại:** Hộp thoại cập nhật hiển thị chi tiết các tính năng mới của phiên bản v1.0.2 ngay cả khi đang ở bản mới nhất.\n- **Khắc phục lỗi font chữ (UTF-8):** Xử lý triệt để bảng mã ký tự tiếng Việt có dấu trong nhật ký cập nhật của hệ thống VietUpdate.",
     "isMandatory":  false
 }
