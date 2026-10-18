@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "2404B61BA57D271B400037D69652B0C4D6F254EE4F5505CC8EB7CE9C58B9042A",
-    "changelog":  "- Tinh chỉnh giao diện xem trước: màu mức độ nhận thức (Biết - Hiểu - Vận dụng) dịu mắt, rõ ràng và dễ phân biệt.\n- Tối ưu hóa hướng dẫn 4 dạng thức câu hỏi tại trang chủ ngắn gọn, trực quan.\n- Tinh gọn các biểu mẫu đăng nhập, đăng ký và hỗ trợ đặt lại mật khẩu nhanh qua Email.\n- Dọn dẹp cấu trúc CSDL cục bộ, tối ưu hóa lưu trữ ảnh câu hỏi trực tiếp trong CSDL.\n- Tối ưu hiệu năng trộn đề và kiểm tra cập nhật tự động mượt mà.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.2/VietMix_v1.0.2.zip",
+    "sha256":  "694B0696EE2F4E9C8C38E38598467FE1690807CC07AD2BEB4C74225D2F30133D",
+    "changelog":  "- Ngân hàng câu hỏi \u0026 Ma trận đề thi: Thiết lập ma trận đề thi theo chuẩn GDPT 2018 và sinh đề thi ngẫu nhiên tự động từ ngân hàng câu hỏi.\n- Thống kê ngân hàng đề: Báo cáo trực quan số lượng câu hỏi theo môn học, khối lớp, dạng thức (I, II, III, IV) và mức độ nhận thức.\n- Xuất đề thi Word chuẩn: Hỗ trợ xuất đề thi đã sinh từ ma trận ra file Word (.docx) kèm bảng đáp án chi tiết và ma trận đề.\n- Tôn trọng định dạng Năm học: Giữ nguyên định dạng năm học do giáo viên cấu hình trong Danh mục (ví dụ \"2026-2027\").\n- Sửa các lỗi giao diện và tối ưu hiệu năng toàn diện.",
     "isMandatory":  false
 }
