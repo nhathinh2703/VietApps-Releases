@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "6488587D719E6EDADF015DD165699019A30623FE753AD8C605C3A1921F49803E",
-    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức (Hệ sinh thái VietApps)\n\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Bóc tách đề thi từ file Word (.docx), nhận diện 4 phần câu hỏi theo chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType, hình ảnh, bảng biểu.\n- **Ngân hàng câu hỏi \u0026 Ma trận đề thi:** Quản lý kho câu hỏi thông minh, sinh ma trận đề, tạo đề thi tự động, lưu trữ lịch sử đề thi đã sinh.\n- **Tương thích hoàn hảo với VietTest:** Xuất đề thi chuẩn hóa kết nối trực tiếp với hệ sinh thái thi và kiểm tra trực tuyến VietTest.\n- **Đồng bộ nhận diện thương hiệu:** Giao diện Header, Sub-navbar 5 tab và Footer chuẩn hóa hiện đại, đồng nhất phong cách thiết kế với VietTest.\n- **Cài đặt hệ thống toàn trang:** Tùy biến thông tin đơn vị giáo dục, cấu hình in ấn \u0026 xuất bản Word, quản trị CSDL SQLite an toàn tại AppData.\n- **Cập nhật tự động VietUpdate:** Tích hợp bộ cập nhật chuẩn VietUpdate, hỗ trợ nâng cấp phần mềm mượt mà, nhanh chóng và an toàn.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
+    "sha256":  "41F72E44213994607F8DA80C8065BD8EE16F16D358E6E740E27245439DDE58CD",
+    "changelog":  "### VietMix v1.0.1 - Bản cập nhật tối ưu hóa \u0026 sửa lỗi hệ thống\n\n- **Đồng bộ Năm học mặc định:** Sửa triệt để lỗi hiển thị năm học trong form Thông tin đơn vị (Cài đặt hệ thống), tự động đồng bộ 2 chiều với CSDL SQLite và trang Danh mục.\n- **Tối ưu hóa bố cục Hybrid Layout:** Tinh chỉnh chiều rộng trang Hướng dẫn (1200px), Danh mục (1200px), Cài đặt hệ thống (940px) căn giữa sang trọng, tập trung; trang Trộn đề \u0026 Ngân hàng câu hỏi giữ toàn màn hình cho không gian tối đa.\n- **Đồng nhất thương hiệu VietApps:** Màu sắc nút Tạo tài khoản VietApps đồng bộ hoàn hảo với nút Đăng nhập.\n- **Tích hợp Launcher run.bat \u0026 build.bat đa cấu hình:** Tự động phát hiện bản biên dịch mới nhất, cơ chế build đồng thời cả Debug và Release giúp chạy thử nghiệm luôn cập nhật mới nhất.",
     "isMandatory":  false
 }
