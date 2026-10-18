@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.0/VietTest_v1.0.0.zip",
-    "sha256":  "5DC794D24F125EFABA666A8109F3146778B4BE80F619C802D4294CADD345D9E1",
+    "sha256":  "350C6290A043B499FC14D97B7CD6EA552046F19F999262F394175A5462F993EF",
     "changelog":  "### VietTest v1.0.0 - Bản phát hành chính thức (Hệ sinh thái VietApps)\n\n- **Hệ thống kiểm tra qua mạng LAN \u0026 Chấm thi AI:** Đánh giá năng lực học sinh toàn diện theo chuẩn chương trình GDPT 2018.\n- **Tương thích hoàn hảo với VietMix:** Nhận tệp đề thi Word (.docx) chuẩn hóa từ VietMix, tự động phân chia ca thi, bố trí phòng máy và danh sách thí sinh.\n- **Kiểm tra mạng nội bộ không cần Internet:** Máy học sinh kết nối trực tiếp qua trình duyệt web trên mọi thiết bị trong mạng LAN.\n- **Giám sát thời gian thực \u0026 Chống gian lận:** Cảnh báo chuyển tab, phát hiện thu nhỏ cửa sổ làm bài, cập nhật tiến độ nộp bài trực tiếp lên máy giáo viên.\n- **Cấu hình Barem điểm theo môn học:** Cho phép giáo viên linh hoạt chọn mẫu barem (Tin học 12, Toán 12, Đánh giá định kỳ 7-3 hoặc tự tùy chỉnh thang điểm).\n- **Xuất tệp dữ liệu chuẩn hóa VietTest:** Đồng bộ tiền tố \u0027VietTest_\u0027 cho toàn bộ tệp Excel mẫu, danh sách thí sinh tất cả ca thi (mỗi ca 1 sheet), bảng điểm VnEdu/SMAS và tệp sao lưu CSDL SQLite.\n- **Đồng bộ nhận diện thương hiệu:** Chuẩn hóa giao diện Header và Footer đồng nhất với VietMix, tự động kết nối thông tin liên hệ và bản quyền từ hệ sinh thái VietApps.\n- **Cập nhật tự động VietUpdate:** Tích hợp bộ cập nhật chuẩn VietUpdate, hỗ trợ nâng cấp phần mềm mượt mà, nhanh chóng và an toàn.",
     "isMandatory":  false
 }
