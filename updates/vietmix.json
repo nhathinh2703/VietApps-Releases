@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.1",
+    "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "41F72E44213994607F8DA80C8065BD8EE16F16D358E6E740E27245439DDE58CD",
-    "changelog":  "### VietMix v1.0.1 - Bản cập nhật tối ưu hóa \u0026 sửa lỗi hệ thống\n\n- **Đồng bộ Năm học mặc định:** Sửa triệt để lỗi hiển thị năm học trong form Thông tin đơn vị (Cài đặt hệ thống), tự động đồng bộ 2 chiều với CSDL SQLite và trang Danh mục.\n- **Tối ưu hóa bố cục Hybrid Layout:** Tinh chỉnh chiều rộng trang Hướng dẫn (1200px), Danh mục (1200px), Cài đặt hệ thống (940px) căn giữa sang trọng, tập trung; trang Trộn đề \u0026 Ngân hàng câu hỏi giữ toàn màn hình cho không gian tối đa.\n- **Đồng nhất thương hiệu VietApps:** Màu sắc nút Tạo tài khoản VietApps đồng bộ hoàn hảo với nút Đăng nhập.\n- **Tích hợp Launcher run.bat \u0026 build.bat đa cấu hình:** Tự động phát hiện bản biên dịch mới nhất, cơ chế build đồng thời cả Debug và Release giúp chạy thử nghiệm luôn cập nhật mới nhất.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
+    "sha256":  "9AE7724C807DD9F25AD708599CDD9D5BC7E3F0AF5A54D8D79D820F53CCE86A23",
+    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức\n\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ đầy đủ các dạng câu hỏi trắc nghiệm nhiều lựa chọn, đúng/sai và trả lời ngắn.\n- **Quản lý đề thi \u0026 Ngân hàng câu hỏi:** Đồng bộ danh mục môn học, khối lớp, cây kiến thức và thông tin đơn vị giáo dục.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
