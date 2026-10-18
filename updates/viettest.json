@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.2",
+    "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.2/VietTest_v1.0.2.zip",
-    "sha256":  "4246CD8F01BADC5E8A14C790F70BF5F8835AF9F296D358760AAAD90FEAE26182",
-    "changelog":  "### VietTest v1.0.2 - NÃ¢ng cáº¥p giao diá»‡n Mobile/Tablet \u0026 Tra cá»©u lá»‹ch sá»­ bÃ i thi\n\n- **Giao diá»‡n lÃ m bÃ i Responsive toÃ n diá»‡n:** Tá»‘i Æ°u tráº£i nghiá»‡m thi trÃªn Ä‘iá»‡n thoáº¡i vÃ  mÃ¡y tÃ­nh báº£ng (Chrome/Edge/Safari). Danh sÃ¡ch cÃ¢u há»i chuyá»ƒn sang dáº¡ng Drawer trÆ°á»£t thÃ´ng minh, nhÆ°á»ng trá»n váº¹n 100% khÃ´ng gian hiá»ƒn thá»‹ Ä‘á» thi.\n- **Tá»‘i Æ°u thao tÃ¡c cháº¡m (Touch-friendly):** PhÃ­m chá»n ÄÃºng/Sai dáº¡ng pill-button lá»›n chá»‘ng báº¥m nháº§m; chá»¯ kÃ½ Ä‘iá»‡n tá»­ há»— trá»£ váº½ báº±ng ngÃ³n tay vÃ  bÃºt cáº£m á»©ng mÆ°á»£t mÃ , chá»‘ng giáº­t cuá»™n mÃ n hÃ¬nh.\n- **Tra cá»©u lá»‹ch sá»­ bÃ i thi:** ThÃ­ sinh cÃ³ thá»ƒ tra cá»©u lá»‹ch sá»­ vÃ  Ä‘iá»ƒm cÃ¡c bÃ i thi Ä‘Ã£ lÃ m ngay táº¡i mÃ n hÃ¬nh Ä‘Äƒng nháº­p vÃ  mÃ n hÃ¬nh káº¿t thÃºc thi; GiÃ¡o viÃªn cÃ³ thá»ƒ xem chi tiáº¿t lá»‹ch sá»­ thi cá»§a tá»«ng há»c sinh ngay táº¡i Tab 2 (Quáº£n lÃ½ Há»c sinh).\n- **Xem báº£ng Ä‘iá»ƒm Ä‘á»™c láº­p táº¡i Tab 5:** Cho phÃ©p xem káº¿t quáº£, in biÃªn báº£n thu bÃ i, cháº¥m tá»± luáº­n AI vÃ  xuáº¥t Excel cho báº¥t ká»³ ca thi nÃ o (ká»ƒ cáº£ cÃ¡c ca thi Ä‘Ã£ káº¿t thÃºc trÆ°á»›c Ä‘Ã³).\n- **Cáº£nh bÃ¡o an toÃ n khi kÃ­ch hoáº¡t ca thi:** Tá»± Ä‘á»™ng phÃ¡t hiá»‡n vÃ  cáº£nh bÃ¡o náº¿u ca thi Ä‘Ã£ cÃ³ káº¿t quáº£ ná»™p bÃ i trÆ°á»›c Ä‘Ã³, trÃ¡nh viá»‡c vÃ´ tÃ¬nh lÃ m má»›i phÃ²ng thi trá»±c tuyáº¿n.\n- **Cáº­p nháº­t tá»± Ä‘á»™ng VietUpdate:** TÃ­ch há»£p bá»™ cáº­p nháº­t chuáº©n VietUpdate, há»— trá»£ nÃ¢ng cáº¥p pháº§n má»m mÆ°á»£t mÃ , nhanh chÃ³ng vÃ  an toÃ n.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.0/VietTest_v1.0.0.zip",
+    "sha256":  "6D7AFC9A328AD8940C99D5C65E1223DD5BF4A7E178EFB63320109D4DCD6D1E2C",
+    "changelog":  "### VietTest v1.0.0 - Bản phát hành chính thức\n\n- **Tổ chức thi \u0026 Đánh giá năng lực:** Quản lý kỳ thi, phòng thi, ma trận đề, chữ ký số và chấm thi tự động chuẩn GDPT 2018.\n- **Giao diện làm bài Responsive:** Tối ưu hóa trải nghiệm làm bài mượt mà trên máy tính, máy tính bảng và điện thoại.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
