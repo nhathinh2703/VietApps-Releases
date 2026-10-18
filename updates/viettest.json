@@ -1,0 +1,11 @@
+{
+    "appId":  "VietTest",
+    "appName":  "VietTest",
+    "version":  "1.0.0",
+    "minRequiredVersion":  "1.0.0",
+    "releaseDate":  "2026-10-18",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.0/VietTest_v1.0.0.zip",
+    "sha256":  "F8E5B1CBC5E72778C73324B15FE24A9AE9DCCE7AA35EE598A1BA2D53FE0E5B7B",
+    "changelog":  "- Phien ban chinh thuc dau tien (1.0.0).\n- Quan ly nam hoc, danh sach hoc sinh va danh so bao danh tu dong.\n- To chuc ky thi theo mon hoc, chia ca thi tu dong theo so may thuc te.\n- May chu LAN tich hop Web \u0026 SignalR thoi gian thuc cho hoc sinh lam bai khong can Internet.\n- Chong gian lan: cuong che toan man hinh, phat hien chuyen tab, roi cua so hoac thu nho man hinh.\n- Giam sat phong thi thoi gian thuc theo 2 che do: dang luoi may tinh va bang theo doi chi tiet.\n- Tu dong cham diem trac nghiem (Phan I, II, III) va tich hop Gemini AI cham tu luan (Phan IV).\n- Co so du lieu SQLite cuc bo (viettest.db) an toan, nhanh chong va ho tro sao luu mot cham.\n- Xuat bang diem chuan VnEdu/SMAS, in bai lam ca nhan co chu ky dien tu cua thi sinh.",
+    "isMandatory":  false
+}
