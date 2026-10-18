@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.2/VietMix_v1.0.2.zip",
-    "sha256":  "694B0696EE2F4E9C8C38E38598467FE1690807CC07AD2BEB4C74225D2F30133D",
-    "changelog":  "- Ngân hàng câu hỏi \u0026 Ma trận đề thi: Thiết lập ma trận đề thi theo chuẩn GDPT 2018 và sinh đề thi ngẫu nhiên tự động từ ngân hàng câu hỏi.\n- Thống kê ngân hàng đề: Báo cáo trực quan số lượng câu hỏi theo môn học, khối lớp, dạng thức (I, II, III, IV) và mức độ nhận thức.\n- Xuất đề thi Word chuẩn: Hỗ trợ xuất đề thi đã sinh từ ma trận ra file Word (.docx) kèm bảng đáp án chi tiết và ma trận đề.\n- Tôn trọng định dạng Năm học: Giữ nguyên định dạng năm học do giáo viên cấu hình trong Danh mục (ví dụ \"2026-2027\").\n- Sửa các lỗi giao diện và tối ưu hiệu năng toàn diện.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.3/VietMix_v1.0.3.zip",
+    "sha256":  "C3782F1A4E90098E371E263ED5EDDFE098F3E00B83134B61807BFC42B621352B",
+    "changelog":  "- Chuẩn hóa tên tệp xuất: Toàn bộ file Word và Excel xuất ra (đề thi, đáp án, đề cương, mẫu danh mục) đều có tiền tố VietMix_ dễ quản lý.\n- Chỉnh sửa câu hỏi trong Ngân hàng: Thêm nút Sửa (✏️) trực tiếp trên từng câu hỏi trong kho đề để cập nhật nội dung, đáp án, mức độ.\n- Xuất Ngân hàng câu hỏi ra Word: Xuất toàn bộ hoặc lọc theo môn/khối ra file Word chuẩn GDPT 2018 kèm mã định danh [#VM_...].\n- Cơ chế chống trùng lặp thông minh: Tự động phát hiện câu hỏi đã tồn tại khi nạp từ file Word (Cập nhật đè / Bỏ qua / Thêm mới).\n- Tinh chỉnh nhãn Phiên bản: Bỏ icon xoay, hiển thị nhãn \"Có phiên bản mới\" tông màu vàng ấm nổi bật và dễ nhìn khi có bản nâng cấp.",
     "isMandatory":  false
 }
