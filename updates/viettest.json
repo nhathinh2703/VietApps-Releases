@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-19",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.1/VietTest_v1.0.1.zip",
-    "sha256":  "D7C2ABAB6474DECA2DAB8A33DC89000A834C694D3650F4BEE723940E38FC9E48",
-    "changelog":  "### VietTest v1.0.1 - Bản cập nhật tính năng thi \u0026 tối ưu giao diện\n\n- **Tối ưu trải nghiệm làm bài thi:** Đếm ngược tự động nộp bài 10s khi hết giờ, hỗ trợ cộng thêm thời gian theo phòng thi và duy trì phiên làm bài an toàn.\n- **Nâng cấp giám thị \u0026 Tra cứu ca thi:** Tích hợp phím gửi tin nhắn nhanh (quick chips), tra cứu chi tiết bài thi và biên bản tổng kết ca thi.\n- **Chuẩn hóa nhận diện \u0026 Cập nhật:** Đồng bộ icon thương hiệu màu xanh chủ đạo, chuẩn hóa tệp đồ họa và cập nhật tự động qua VietUpdate.",
+    "releaseDate":  "2026-10-20",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.2/VietTest_v1.0.2.zip",
+    "sha256":  "C475E71657E83289A7F8E310AA4A0B5B5FDE4016B4B7850BA81DAFBFC71B0646",
+    "changelog":  "### VietTest v1.0.2 - Bản cập nhật bảo mật \u0026 tính năng khóa màn hình\n\n- **Khóa bảo mật phiên làm việc:** Duy trì trạng thái khóa màn hình an toàn khi tắt và mở lại ứng dụng; ngăn chặn đóng cửa sổ khóa khi chưa xác thực.\n- **Mở khóa ngoại tuyến (Offline):** Hỗ trợ mở khóa bằng mật khẩu an toàn ngay cả khi không có kết nối Internet.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
