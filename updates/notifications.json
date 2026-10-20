@@ -1,0 +1,24 @@
+{
+  "notifications": [
+    {
+      "id": "notif-20261020-01",
+      "title": "Chào mừng Quý Thầy/Cô đến với Hệ sinh thái VietApps 2026!",
+      "content": "Tài khoản VietApps ID dùng chung chính thức ra mắt, hỗ trợ đăng nhập 1 lần và đồng bộ tài khoản giữa VietMix, VietTest và các phần mềm giáo dục trong hệ sinh thái.",
+      "date": "2026-10-20",
+      "type": "info",
+      "targetApp": "all",
+      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases",
+      "actionText": "Xem chi tiết"
+    },
+    {
+      "id": "notif-20261020-02",
+      "title": "Cập nhật chuẩn đề thi GDPT 2018 mới nhất",
+      "content": "Hệ thống VietMix và VietTest đã tối ưu hóa cấu trúc đề thi 3 phần (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn) với chuẩn Bộ GD&ĐT.",
+      "date": "2026-10-20",
+      "type": "feature",
+      "targetApp": "all",
+      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases",
+      "actionText": "Tìm hiểu thêm"
+    }
+  ]
+}
