@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.1",
+    "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-20",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "52952A30189EF9355CA018920700DCCD9FF677FB1064BA5BF19B5F5EC58A0DF6",
-    "changelog":  "### VietMix v1.0.1 - Bản cập nhật bảo mật \u0026 tính năng khóa màn hình\n\n- **Khóa bảo mật phiên làm việc:** Duy trì trạng thái khóa màn hình an toàn khi tắt và mở lại ứng dụng; ngăn chặn đóng cửa sổ khóa khi chưa xác thực.\n- **Mở khóa ngoại tuyến (Offline):** Hỗ trợ mở khóa bằng mật khẩu an toàn ngay cả khi không có kết nối Internet.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
+    "sha256":  "2149E1D083A3F42F076F6262ECB276B1FEEB25CD47ABE27300BBFB47AD1355DD",
+    "changelog":  "### VietMix v1.0.0 - Phát hành chính thức Hệ sinh thái VietApps\n\n- **Hệ sinh thái VietApps:** Đồng bộ giao diện Header \u0026 Footer đồng màu Teal ngọc bích hiện đại.\n- **Tài khoản dùng chung:** Đăng nhập 1 lần (Single Sign-On) liên thông toàn bộ các ứng dụng trong hệ sinh thái.\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ 4 định dạng câu hỏi trắc nghiệm chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType và hình ảnh.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
