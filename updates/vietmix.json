@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-18",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "9AE7724C807DD9F25AD708599CDD9D5BC7E3F0AF5A54D8D79D820F53CCE86A23",
-    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức\n\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ đầy đủ các dạng câu hỏi trắc nghiệm nhiều lựa chọn, đúng/sai và trả lời ngắn.\n- **Quản lý đề thi \u0026 Ngân hàng câu hỏi:** Đồng bộ danh mục môn học, khối lớp, cây kiến thức và thông tin đơn vị giáo dục.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
+    "releaseDate":  "2026-10-20",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
+    "sha256":  "52952A30189EF9355CA018920700DCCD9FF677FB1064BA5BF19B5F5EC58A0DF6",
+    "changelog":  "### VietMix v1.0.1 - Bản cập nhật bảo mật \u0026 tính năng khóa màn hình\n\n- **Khóa bảo mật phiên làm việc:** Duy trì trạng thái khóa màn hình an toàn khi tắt và mở lại ứng dụng; ngăn chặn đóng cửa sổ khóa khi chưa xác thực.\n- **Mở khóa ngoại tuyến (Offline):** Hỗ trợ mở khóa bằng mật khẩu an toàn ngay cả khi không có kết nối Internet.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
