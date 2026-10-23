@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-23",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "7BE9BAA51D19D1FD18FF6CA9259FF6592F9CC79155893A2AFC0DF424B11785D4",
-    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức\n\n- **Giao diện \u0026 Biểu trưng:** Cập nhật bộ nhận diện icon phẳng VietMix (vM) hiện đại, đồng bộ phong cách Hệ sinh thái VietApps.\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ 4 định dạng câu hỏi trắc nghiệm chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType và hình ảnh.\n- **Quản lý \u0026 Danh mục:** Chuẩn hóa bảng Năm học, Môn học, Khối lớp theo định dạng Excel thống nhất.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
+    "sha256":  "68188E840B724BA79ECB564910F16748CFC604B2A45363F6BFFEC5AD30066CBD",
+    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức\n\n- **Giao diện \u0026 Biểu trưng:** Cập nhật bộ nhận diện icon phẳng VietMix (vM) hiện đại, luồng tiến trình 4 bước trực quan, combobox Năm học phẳng đồng bộ.\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ 4 định dạng câu hỏi chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType và hình ảnh.\n- **Hộp thoại Nhập Excel thông minh:** Chọn Sheet, xem trước dữ liệu và chỉ định bảng nạp CSDL linh hoạt ngay trên thanh điều hướng.\n- **Tối ưu thao tác:** Loại bỏ nút thừa, bảng cấu hình 4 phần tập trung, lưu cấu hình chủ động và giải phóng không gian mục lục câu hỏi.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
