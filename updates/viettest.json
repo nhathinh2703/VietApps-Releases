@@ -3,9 +3,9 @@
     "appName":  "VietTest",
     "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-20",
+    "releaseDate":  "2026-10-23",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.0/VietTest_v1.0.0.zip",
-    "sha256":  "F85BCDF681603C7D973250A42BC3780A9B3B56004E97DB96F33054D0E298F3E1",
+    "sha256":  "E94B27E69E0CEB274DF9FF67291027202F95FA95B0B4F00BE9B53357128A8565",
     "changelog":  "### VietTest v1.0.0 - Phát hành chính thức Hệ sinh thái VietApps\n\n- **Hệ sinh thái VietApps:** Đồng bộ giao diện Header \u0026 Footer đồng màu Xanh dương hoàng gia (Royal Cobalt) học thuật và sang trọng.\n- **Tài khoản dùng chung:** Đăng nhập 1 lần (Single Sign-On) liên thông toàn bộ các ứng dụng trong hệ sinh thái.\n- **Khảo thí \u0026 Chấm thi thông minh:** Kiểm tra phòng máy mạng LAN, tự động phân phòng, chấm điểm tự động \u0026 hỗ trợ chấm tự luận AI với Gemini.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
