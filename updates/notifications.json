@@ -1,24 +1,24 @@
 {
   "notifications": [
     {
-      "id": "notif-20261020-01",
-      "title": "Chào mừng Quý Thầy/Cô đến với Hệ sinh thái VietApps 2026!",
-      "content": "Tài khoản VietApps ID dùng chung chính thức ra mắt, hỗ trợ đăng nhập 1 lần và đồng bộ tài khoản giữa VietMix, VietTest và các phần mềm giáo dục trong hệ sinh thái.",
-      "date": "2026-10-20",
-      "type": "info",
+      "id": "notif-20261023-vietmix",
+      "title": "🎉 Chính thức phát hành VietMix 2026 - Chuẩn hóa & Trộn đề thi GDPT 2018",
+      "content": "VietMix 2026 chính thức ra mắt với khả năng chuẩn hóa và trộn đề thi theo cấu trúc 3 phần mới nhất của Bộ GD&ĐT (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn), bảo toàn 100% công thức Toán/Lý/Hóa MathType và hình ảnh. Tải bộ cài đặt ngay!",
+      "date": "2026-10-23",
+      "type": "update",
       "targetApp": "all",
-      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases",
-      "actionText": "Xem chi tiết"
+      "actionUrl": "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
+      "actionText": "Tải bộ cài đặt VietMix"
     },
     {
-      "id": "notif-20261020-02",
-      "title": "Cập nhật chuẩn đề thi GDPT 2018 mới nhất",
-      "content": "Hệ thống VietMix và VietTest đã tối ưu hóa cấu trúc đề thi 3 phần (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn) với chuẩn Bộ GD&ĐT.",
-      "date": "2026-10-20",
-      "type": "feature",
+      "id": "notif-20261023-viettest",
+      "title": "🚀 Chính thức phát hành VietTest 2026 - Khảo thí & Thi mạng LAN chống gian lận",
+      "content": "VietTest 2026 hỗ trợ tổ chức thi trắc nghiệm offline toàn diện trong mạng LAN không phụ thuộc Internet, tích hợp Kiosk Mode chống gian lận trên máy học sinh, tự động chia ca thi phòng máy và xuất bảng điểm chuẩn SMAS/VnEdu.",
+      "date": "2026-10-23",
+      "type": "update",
       "targetApp": "all",
-      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases",
-      "actionText": "Tìm hiểu thêm"
+      "actionUrl": "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
+      "actionText": "Tải bộ cài đặt VietTest"
     }
   ]
 }
