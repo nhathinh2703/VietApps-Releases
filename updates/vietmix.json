@@ -3,9 +3,9 @@
     "appName":  "VietMix",
     "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-20",
+    "releaseDate":  "2026-10-23",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "2149E1D083A3F42F076F6262ECB276B1FEEB25CD47ABE27300BBFB47AD1355DD",
-    "changelog":  "### VietMix v1.0.0 - Phát hành chính thức Hệ sinh thái VietApps\n\n- **Hệ sinh thái VietApps:** Đồng bộ giao diện Header \u0026 Footer đồng màu Teal ngọc bích hiện đại.\n- **Tài khoản dùng chung:** Đăng nhập 1 lần (Single Sign-On) liên thông toàn bộ các ứng dụng trong hệ sinh thái.\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ 4 định dạng câu hỏi trắc nghiệm chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType và hình ảnh.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
+    "sha256":  "C177948674F1D2BD04BA28712546289A3B6E17E23CE755C768D2EE62CF9B2A69",
+    "changelog":  "### VietMix v1.0.0 - Bản phát hành chính thức\n\n- **Giao diện \u0026 Biểu trưng:** Cập nhật bộ nhận diện icon phẳng VietMix (vM) hiện đại, đồng bộ phong cách Hệ sinh thái VietApps.\n- **Chuẩn hóa \u0026 Trộn đề thi GDPT 2018:** Hỗ trợ 4 định dạng câu hỏi trắc nghiệm chuẩn Bộ GD\u0026ĐT, bảo toàn 100% công thức MathType và hình ảnh.\n- **Quản lý \u0026 Danh mục:** Chuẩn hóa bảng Năm học, Môn học, Khối lớp theo định dạng Excel thống nhất.\n- **Tự động cập nhật:** Tích hợp bộ cập nhật thông minh VietUpdate, nâng cấp mượt mà và an toàn.",
     "isMandatory":  false
 }
