@@ -1,0 +1,11 @@
+{
+    "appId":  "VietLab",
+    "appName":  "VietLab",
+    "version":  "1.0.0",
+    "minRequiredVersion":  "1.0.0",
+    "releaseDate":  "2026-10-24",
+    "downloadUrl":  "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
+    "sha256":  "",
+    "changelog":  "### VietLab v1.0.0 - Phát hành chính thức\n- **Quản lý phòng máy tập trung:** Sơ đồ phòng máy, giám sát kết nối máy trạm thời gian thực.\n- **Giám sát màn hình:** Truyền hình ảnh màn hình máy con độ trễ thấp.\n- **Phát & Thu file:** Điều phối tài liệu và thu bài thi đồng loạt tốc độ cao.\n- **Tích hợp thi VietTest:** Tự động mở cổng thi trực tuyến cho toàn bộ phòng máy 1-chạm.",
+    "isMandatory":  false
+}
