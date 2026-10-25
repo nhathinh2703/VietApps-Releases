@@ -3,9 +3,9 @@
     "appName":  "VietLab",
     "version":  "1.0.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-24",
-    "downloadUrl":  "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
-    "sha256":  "",
-    "changelog":  "### VietLab v1.0.0 - Phát hành chính thức\n- **Quản lý phòng máy tập trung:** Sơ đồ phòng máy, giám sát kết nối máy trạm thời gian thực.\n- **Giám sát màn hình:** Truyền hình ảnh màn hình máy con độ trễ thấp.\n- **Phát & Thu file:** Điều phối tài liệu và thu bài thi đồng loạt tốc độ cao.\n- **Tích hợp thi VietTest:** Tự động mở cổng thi trực tuyến cho toàn bộ phòng máy 1-chạm.",
+    "releaseDate":  "2026-10-25",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.0/VietLab_v1.0.0.zip",
+    "sha256":  "7A9E51AF6FA6611A7E7CB4A18C490D254A9D3112702C848D853CA493DB209858",
+    "changelog":  "### VietLab v1.0.0 - Phat hanh chinh thuc\n\n- Quan ly va giam sat phong may mang LAN chuyen nghiep.\n- Nhan dien may tram tu dong qua UDP Beacon khong can cau hinh IP tinh.\n- Dieu khien, khoa/mo man hinh, truyen phat file va mo cong thi truc tuyen VietTest.\n- Dang nhap SSO dong bo voi toan he sinh thai VietApps.",
     "isMandatory":  false
 }
