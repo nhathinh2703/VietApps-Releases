@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-25",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.0/VietMix_v1.0.0.zip",
-    "sha256":  "A5F69B6B1A1E9EA874B0ED30857C7FD991CF31509BEDDB46AF3F6DEE54597AE9",
-    "changelog":  "### VietMix v1.0.1 - Cập nhật tối ưu nhận dạng \u0026 Định dạng xuất đề\n\n- **Chuẩn hóa Shift+Enter:** Tự động chuyển đổi ngắt dòng mềm (Shift+Enter) sang đoạn văn chuẩn, khắc phục triệt để lỗi dính chùm câu hỏi và nhận diện đáp án đúng/sai.\n- **Triệt tiêu lỗi thụt lề tùy tiện:** Tự động loại bỏ sạch sẽ các định dạng lề thừa (left, right, hanging, numbering) từ file đề gốc và template, đảm bảo đề thi xuất ra luôn phẳng phiu, ngay ngắn theo chuẩn GDPT 2018.\n- **Nâng cao độ ổn định:** Hoàn thiện bóc tách ngữ liệu chùm và tối ưu hóa bộ sinh tài liệu Word.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
+    "sha256":  "14C2892D8AE97CFDF95B51D079BD503E8B3F9678432326C09B6A342D7DAB98F3",
+    "changelog":  "### VietMix v1.0.1 - Cập nhật tối ưu nhận dạng \u0026 Định dạng xuất đề\n\n- **Chuẩn hóa tiêu đề đề thi:** Hiển thị chuẩn xác Khối lớp và Năm học trên tiêu đề đề thi GDPT 2018 (Dòng 1: Tên kỳ kiểm tra - Năm học; Dòng 2: Môn học - Khối lớp).\n- **Chuẩn hóa Shift+Enter:** Tự động chuyển đổi ngắt dòng mềm (Shift+Enter) sang đoạn văn chuẩn, khắc phục triệt để lỗi dính chùm câu hỏi và nhận diện đáp án đúng/sai.\n- **Triệt tiêu lỗi thụt lề tùy tiện:** Tự động loại bỏ sạch các định dạng lề thừa (left, right, hanging, numbering) từ file đề gốc, giúp đề thi xuất ra luôn phẳng phiu, ngay ngắn.",
     "isMandatory":  false
 }
