@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-25",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "7002377EB34307C9F5407976C6B96F0DC21E3C4B15641BF0B500D569A7182F25",
+    "sha256":  "DD4CAF54064D3CBA3B85FF09FAD819BBD30FB510F5D2E39A02CAF2D0564D1C7F",
     "changelog":  "### VietMix v1.0.1 - Cập nhật giao diện tiêu đề \u0026 Định dạng chuẩn hóa đề thi\n\n- **Định dạng bảng tiêu đề chuẩn hành chính:** Thiết kế lại 2 bảng tiêu đề đầu trang theo thể thức hành chính chuẩn (Bảng 1: Đơn vị, Kỳ thi, Năm học, Môn, Khối lớp, Thời gian, Số trang; Bảng 2: Thông tin thí sinh và ô Mã đề có viền).\n- **Tách dòng tiêu đề \u0026 Đường kẻ thanh mảnh:** Tách Năm học và Ghi chú thời gian phát đề xuống dòng riêng biệt, tránh ngắt chữ tự động; làm mỏng đường kẻ phân cách hành chính tinh tế.\n- **Triệt tiêu lỗi thụt lề tùy tiện:** Tự động loại bỏ hoàn toàn các định dạng lề thừa (left, right, hanging, numbering) từ file đề gốc, đề xuất ra phẳng phiu, ngay ngắn.\n- **Chuẩn hóa Shift+Enter:** Tự động chuyển đổi ngắt dòng mềm (Shift+Enter) sang đoạn văn chuẩn, nhận diện chính xác câu hỏi và đáp án.",
     "isMandatory":  false
 }
