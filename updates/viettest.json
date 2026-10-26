@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-26",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.2/VietTest_v1.0.2.zip",
-    "sha256":  "B5BB860E502713BDE6675A62B205EBCECAF795291A58AEEBB0EE573009267C8E",
-    "changelog":  "### VietTest v1.0.2 - Tối ưu giao diện quản lý Năm học\n\n- **Giao diện Năm học (Tab 1):** Mở rộng chiều rộng cột Mặc định và chống ngắt dòng (whitespace-nowrap), hiển thị trọn vẹn nhãn ⭐ Mặc định, Đang dùng và nút thao tác trên cùng một hàng.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.3/VietTest_v1.0.3.zip",
+    "sha256":  "353B0087CC1D3C988AAAB9373D6CEC35F898EEB280C4597B328D8CB4CB26F051",
+    "changelog":  "### VietTest v1.0.3 - Tinh gọn giao diện Năm học\n\n- **Giao diện Năm học (Tab 1):** Tinh gọn cột Mặc định, loại bỏ nhãn dư thừa (Dùng / Đang dùng), chỉ giữ lại trạng thái ⭐ Mặc định và nút ⭐ Đặt mặc định trực quan, rõ ràng và không bị vỡ dòng.",
     "isMandatory":  false
 }
