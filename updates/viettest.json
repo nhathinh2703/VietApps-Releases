@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-26",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.3/VietTest_v1.0.3.zip",
-    "sha256":  "353B0087CC1D3C988AAAB9373D6CEC35F898EEB280C4597B328D8CB4CB26F051",
-    "changelog":  "### VietTest v1.0.3 - Tinh gọn giao diện Năm học\n\n- **Giao diện Năm học (Tab 1):** Tinh gọn cột Mặc định, loại bỏ nhãn dư thừa (Dùng / Đang dùng), chỉ giữ lại trạng thái ⭐ Mặc định và nút ⭐ Đặt mặc định trực quan, rõ ràng và không bị vỡ dòng.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.4/VietTest_v1.0.4.zip",
+    "sha256":  "8ED598651ADA94A07019B43EF5AC9733EF85B73E874F4D534399DF977923364D",
+    "changelog":  "### VietTest v1.0.4 - Tối ưu chống gian lận gõ tự luận \u0026 Nâng cấp quy trình chấm tự luận AI\n\n- **Giao diện làm bài thi (Kiosk Web):**\n  - Khắc phục triệt để lỗi hiểu nhầm gian lận khi gõ tự luận: Cho phép các phím tắt soạn thảo (`Ctrl+C`, `Ctrl+V`, `Ctrl+A`, `Ctrl+Z`, `Ctrl+Y`, `Ctrl+X`) và hỗ trợ mượt mà bộ gõ tiếng Việt (Unikey/EVKey).\n  - Bổ sung cơ chế Debounce 1.5s cho sự kiện mất focus cửa sổ khi gõ tiếng Việt / popup IME, loại bỏ hoàn toàn báo động giả.\n  - Cho phép dùng chuột phải và sao chép/cắt chỉnh sửa trong nội bộ ô bài làm của thí sinh.\n- **Quy trình Chấm điểm tự luận \u0026 Quản trị ca thi:**\n  - Bổ sung cột Trạng thái thi rõ ràng (`❌ Vắng thi`, `✓ Đã nộp`, `⚡ Đã thu`, `Đang thi`).\n  - Lọc bỏ thí sinh vắng thi khi chấm tự luận; tự động gán 0đ cho câu tự luận để trống mà không tốn lượt gọi AI.\n  - Thêm nút \"Duyệt tất cả tự luận\" trước nút \"Chấm tự luận thủ công\" để dễ dàng chấp thuận toàn bộ điểm AI chấm.\n  - Tinh gọn giao diện chấm tự luận thủ công: Đổi tên nút thành \"Chấm tự luận thủ công\", hiển thị nổi bật điểm và nhận xét của AI kèm nút duyệt nhanh `✅ Đồng ý với AI`.\n- **Cấu hình đề thi:** Cho phép điều chỉnh chi tiết điểm cho từng câu trả lời ngắn ngay trên giao diện.",
     "isMandatory":  false
 }
