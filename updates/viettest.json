@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-25",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.0/VietTest_v1.0.0.zip",
-    "sha256":  "793AD2843DE8E074A9EA7B246664F55685C150981431295BECC5FFE953DCFDC2",
-    "changelog":  "### VietTest v1.0.1 - Cập nhật \u0026 Tối ưu hóa trải nghiệm\n- **Chiếu mã QR \u0026 liên kết**: Cỡ chữ liên kết phóng to vượt trội để học sinh ngồi cuối phòng dễ nhìn và gõ vào trình duyệt; phóng to mã QR.\n- **Quản lý học sinh**: Bỏ nút \"Tạo tên đăng nhập\" (hệ thống tự động sinh khi thêm/nhập); đồng bộ icon trắng nút \"Thêm học sinh\".\n- **Đánh SBD tự động**: Thiết lập mặc định Giữ nguyên thứ tự danh sách hiện tại, Đánh theo khối, Độ dài 3 số.\n- **Mật khẩu học sinh**: Tự động lấy 123456 làm mật khẩu dự phòng nếu học sinh chưa có thông tin ngày sinh đầy đủ.\n- **Phục hồi sự cố phòng thi**: Tự động lưu và khôi phục trạng thái ca thi đang diễn ra khi máy giáo viên khởi động lại hoặc mở lại ứng dụng.",
+    "releaseDate":  "2026-10-26",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.1/VietTest_v1.0.1.zip",
+    "sha256":  "D21D4F8FA581E0BB94CC5A5EB247CEEACE71CE7DCBD5A515B47EC3C4D31DD0EB",
+    "changelog":  "### VietTest v1.0.1 - Nâng cấp Chấm tự luận AI, Nộp ảnh LAN \u0026 Tối ưu hóa hệ thống\n\n- **Chấm tự luận bằng Gemini AI:** Nâng cấp mô hình Gemini 3.5 Flash / Flash Lite mới nhất, hiển thị tiến trình chấm trực tiếp (Đang chấm câu X/Y...), tự động lưu điểm SQLite và hỗ trợ khóa API cá nhân hoặc dùng khóa tích hợp sẵn.\n- **Nhập điểm tự luận thủ công siêu tốc:** Hỗ trợ phím Enter / mũi tên xuống để chuyển tiếp dòng nhanh, tự động bôi đen điểm cũ, hỗ trợ gõ tắt 2 chữ số (15 -\u003e 1.5) và tự động khống chế điểm tối đa của câu.\n- **Nộp ảnh bài làm tự luận qua mạng LAN (VietTest Mobile):** Thêm chế độ Chọn nhanh học sinh từ danh sách phòng thi (tìm theo SBD/Tên, 1 chạm mở máy ảnh), thêm nút Đóng tiện lợi và nén ảnh truyền thời gian thực qua SignalR.\n- **Quản lý Năm học mặc định:** Lưu và ưu tiên nạp năm học mặc định cố định khi mở ứng dụng, đồng bộ đa chiều giữa SQLite và cấu hình hệ thống, giao diện Tab 1 phân biệt rõ ràng \"⭐ Mặc định\" và \"Đang dùng\".\n- **Giao diện bài thi học sinh:** Cố định khung thông tin học sinh sau khi đăng nhập, tối ưu màn hình nộp bài và hướng dẫn nhập liệu bằng giọng nói (Windows + H) trong chế độ Kiosk.",
     "isMandatory":  false
 }
