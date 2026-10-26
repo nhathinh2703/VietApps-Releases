@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-25",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.1/VietMix_v1.0.1.zip",
-    "sha256":  "588946DFB14EC19FEF96ECD76BFC7D0EA7756630B295D75A6AF307789698D5FA",
-    "changelog":  "### VietMix v1.0.1 - Cập nhật giao diện tiêu đề \u0026 Định dạng chuẩn hóa đề thi\n\n- **Định dạng bảng tiêu đề chuẩn hành chính:** Thiết kế lại 2 bảng tiêu đề đầu trang theo thể thức hành chính chuẩn (Bảng 1: Đơn vị, Kỳ thi, Năm học, Môn, Khối lớp, Thời gian, Số trang; Bảng 2: Thông tin thí sinh và ô Mã đề có viền).\n- **Tách dòng tiêu đề \u0026 Đường kẻ thanh mảnh:** Tách Năm học và Ghi chú thời gian phát đề xuống dòng riêng biệt, tránh ngắt chữ tự động; làm mỏng đường kẻ phân cách hành chính tinh tế.\n- **Rà soát \u0026 Tối ưu Lưu cấu hình:** Loại bỏ hoàn toàn cơ chế tự lưu ngầm khi nhập liệu/chọn mã đề; gom gọn thông báo khi bấm \"Lưu cấu hình\" về 1 thông báo duy nhất, triệt tiêu lỗi hiện đồng loạt 4 Toast.\n- **Tối ưu 4 mốc Tab \u0026 Thụt lề:** Tinh chỉnh mốc Tab 1 về 300 dxa (~0.53 cm) cân đối chuẩn lề tiếng Việt; tích hợp nút \"🔄 Mặc định\" khôi phục nhanh các mốc Tab gốc.\n- **Thích ứng tự động theo cỡ chữ:** Tự động điều chỉnh ngưỡng ký tự chia cột đáp án theo cỡ chữ (12pt, 13pt, 14pt) chống vỡ hàng và lệch cột.\n- **Triệt tiêu lỗi thụt lề tùy tiện:** Tự động loại bỏ hoàn toàn các định dạng lề thừa (left, right, hanging, numbering) từ file đề gốc, đề xuất ra phẳng phiu, ngay ngắn.\n- **Chuẩn hóa Shift+Enter:** Tự động chuyển đổi ngắt dòng mềm (Shift+Enter) sang đoạn văn chuẩn, nhận diện chính xác câu hỏi và đáp án.",
+    "releaseDate":  "2026-10-26",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.2/VietMix_v1.0.2.zip",
+    "sha256":  "6E16F135245618A88F31FBA0F6694198834974A56F784D84CC98D15D271AC8C7",
+    "changelog":  "### VietMix v1.0.2 - Tối ưu hóa xử lý hình ảnh, MathType \u0026 Giao diện biên tập\n\n- **Bảo toàn nguyên bản MathType \u0026 Hình ảnh:** Tinh gọn hộp thoại chỉnh sửa câu hỏi, loại bỏ trường nhập công thức tự nhiên gây phức tạp; bảo toàn tự động 100% đối tượng OLE MathType và hình minh họa gốc.\n- **Tối ưu hiển thị hình ảnh \u0026 công thức:** Giới hạn kích thước hiển thị thumbnail ảnh/công thức trong modal sửa câu hỏi, chống tràn và che lấp các phương án lựa chọn.\n- **Giữ chuẩn tỉ lệ và kích thước ảnh Word:** Đọc chính xác thuộc tính kích thước ảnh từ OpenXML (`\u003cwp:extent\u003e`), giữ nguyên vẹn kích thước thu nhỏ do giáo viên thiết lập trong Word khi hiển thị và xuất đề.\n- **Xử lý nhóm hình vẽ VML:** Tinh chỉnh cơ chế đọc kích thước VML Shape Group, tránh lỗi nhận nhầm tọa độ tương đối thành kích thước điểm (pt) gây biến dạng các nhãn đồ thị.\n- **Định dạng bảng tiêu đề \u0026 Thụt lề chuẩn GDPT 2018:** Duy trì toàn bộ cải tiến về bảng thông tin hành chính, 4 mốc Tab tự động thích ứng theo cỡ chữ (12pt, 13pt, 14pt) và chuẩn hóa ngắt dòng Shift+Enter.",
     "isMandatory":  false
 }
