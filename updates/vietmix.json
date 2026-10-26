@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-26",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.3/VietMix_v1.0.3.zip",
-    "sha256":  "03674D947E39EABD6C84F0F04AEDCFA60AA3DF211ADC32CB98C89814E7EC62FE",
-    "changelog":  "### VietMix v1.0.3 - Tối ưu giao diện xem trước \u0026 Linh hoạt nhận diện điểm, chùm câu hỏi\n\n- **Sắp xếp trực quan thanh câu hỏi:** Đưa Loại câu hỏi, Mức độ nhận thức (B/H/V, Điểm) và nút \"Sửa\" sang sát tên câu hỏi ở bên trái; nút \"Lưu vào Ngân hàng\" đặt gọn gàng ở góc phải ngoài cùng.\n- **Hỗ trợ gộp chung nhãn:** Cho phép viết gộp linh hoạt trong 1 cặp ngoặc (ví dụ: `[b - 1,5 điểm]`, `[cd, H, 1.5 điểm]`), tự động bóc tách sạch sẽ khi hoán vị.\n- **Chuẩn hóa nhận diện \u0026 hiển thị điểm số:** Chấp nhận cả điểm số trong ngoặc vuông lẫn ngoặc tròn; điểm các phần thi tự động định dạng chuẩn thể thức `3,0 điểm` thay vì `3 điểm`.\n- **Mở rộng nhận diện chùm câu hỏi:** Bổ sung đầy đủ các thẻ mở/đóng nhóm phổ biến `[\u003cNHOM\u003e]`, `[\u003cCHUM\u003e]`, `[\u003cGROUP\u003e]`, `[\u003cG\u003e]`.",
+    "releaseDate":  "2026-10-27",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.4/VietMix_v1.0.4.zip",
+    "sha256":  "3E719218C91747903BE259BA3C1EF6ABA316741EE0006F694018C92C2DBAB2AF",
+    "changelog":  "### VietMix v1.0.4 - Cải tiến Bảng Tra Cứu Quy Tắc Soạn Đề \u0026 Khóa Màn Hình PIN\n\n- **Bảng Tra Cứu Soạn Đề (Cheat Sheet) khoa học:** Thiết kế dạng bảng tra cứu ma trận trực quan, thu gọn chiều cao tối đa, tra cứu nhanh mọi quy tắc đặt tham số trong vài giây.\n- **Linh hoạt tham số \u0026 dấu ngoặc:** Nhận diện cả ngoặc vuông `[...]` lẫn ngoặc tròn `(...)` cho toàn bộ tham số `[cd]`, mức độ `[Biết/Hiểu/Vận dụng]`, điểm số, chùm câu `[\u003cN\u003e]`.\n- **Bảo mật màn hình với mã PIN:** Tích hợp tính năng khóa ứng dụng nhanh ngoại tuyến bằng mã PIN, bảo vệ dữ liệu đề thi cá nhân.",
     "isMandatory":  false
 }
