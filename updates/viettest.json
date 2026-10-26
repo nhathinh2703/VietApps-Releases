@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-26",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.1/VietTest_v1.0.1.zip",
-    "sha256":  "D21D4F8FA581E0BB94CC5A5EB247CEEACE71CE7DCBD5A515B47EC3C4D31DD0EB",
-    "changelog":  "### VietTest v1.0.1 - Nâng cấp Chấm tự luận AI, Nộp ảnh LAN \u0026 Tối ưu hóa hệ thống\n\n- **Chấm tự luận bằng Gemini AI:** Nâng cấp mô hình Gemini 3.5 Flash / Flash Lite mới nhất, hiển thị tiến trình chấm trực tiếp (Đang chấm câu X/Y...), tự động lưu điểm SQLite và hỗ trợ khóa API cá nhân hoặc dùng khóa tích hợp sẵn.\n- **Nhập điểm tự luận thủ công siêu tốc:** Hỗ trợ phím Enter / mũi tên xuống để chuyển tiếp dòng nhanh, tự động bôi đen điểm cũ, hỗ trợ gõ tắt 2 chữ số (15 -\u003e 1.5) và tự động khống chế điểm tối đa của câu.\n- **Nộp ảnh bài làm tự luận qua mạng LAN (VietTest Mobile):** Thêm chế độ Chọn nhanh học sinh từ danh sách phòng thi (tìm theo SBD/Tên, 1 chạm mở máy ảnh), thêm nút Đóng tiện lợi và nén ảnh truyền thời gian thực qua SignalR.\n- **Quản lý Năm học mặc định:** Lưu và ưu tiên nạp năm học mặc định cố định khi mở ứng dụng, đồng bộ đa chiều giữa SQLite và cấu hình hệ thống, giao diện Tab 1 phân biệt rõ ràng \"⭐ Mặc định\" và \"Đang dùng\".\n- **Giao diện bài thi học sinh:** Cố định khung thông tin học sinh sau khi đăng nhập, tối ưu màn hình nộp bài và hướng dẫn nhập liệu bằng giọng nói (Windows + H) trong chế độ Kiosk.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.2/VietTest_v1.0.2.zip",
+    "sha256":  "B5BB860E502713BDE6675A62B205EBCECAF795291A58AEEBB0EE573009267C8E",
+    "changelog":  "### VietTest v1.0.2 - Tối ưu giao diện quản lý Năm học\n\n- **Giao diện Năm học (Tab 1):** Mở rộng chiều rộng cột Mặc định và chống ngắt dòng (whitespace-nowrap), hiển thị trọn vẹn nhãn ⭐ Mặc định, Đang dùng và nút thao tác trên cùng một hàng.",
     "isMandatory":  false
 }
