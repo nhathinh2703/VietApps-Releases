@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-26",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.4/VietTest_v1.0.4.zip",
-    "sha256":  "8ED598651ADA94A07019B43EF5AC9733EF85B73E874F4D534399DF977923364D",
-    "changelog":  "### VietTest v1.0.4 - Tối ưu chống gian lận gõ tự luận \u0026 Nâng cấp quy trình chấm tự luận AI\n\n- **Giao diện làm bài thi (Kiosk Web):**\n  - Khắc phục triệt để lỗi hiểu nhầm gian lận khi gõ tự luận: Cho phép các phím tắt soạn thảo (`Ctrl+C`, `Ctrl+V`, `Ctrl+A`, `Ctrl+Z`, `Ctrl+Y`, `Ctrl+X`) và hỗ trợ mượt mà bộ gõ tiếng Việt (Unikey/EVKey).\n  - Bổ sung cơ chế Debounce 1.5s cho sự kiện mất focus cửa sổ khi gõ tiếng Việt / popup IME, loại bỏ hoàn toàn báo động giả.\n  - Cho phép dùng chuột phải và sao chép/cắt chỉnh sửa trong nội bộ ô bài làm của thí sinh.\n- **Quy trình Chấm điểm tự luận \u0026 Quản trị ca thi:**\n  - Bổ sung cột Trạng thái thi rõ ràng (`❌ Vắng thi`, `✓ Đã nộp`, `⚡ Đã thu`, `Đang thi`).\n  - Lọc bỏ thí sinh vắng thi khi chấm tự luận; tự động gán 0đ cho câu tự luận để trống mà không tốn lượt gọi AI.\n  - Thêm nút \"Duyệt tất cả tự luận\" trước nút \"Chấm tự luận thủ công\" để dễ dàng chấp thuận toàn bộ điểm AI chấm.\n  - Tinh gọn giao diện chấm tự luận thủ công: Đổi tên nút thành \"Chấm tự luận thủ công\", hiển thị nổi bật điểm và nhận xét của AI kèm nút duyệt nhanh `✅ Đồng ý với AI`.\n- **Cấu hình đề thi:** Cho phép điều chỉnh chi tiết điểm cho từng câu trả lời ngắn ngay trên giao diện.",
+    "releaseDate":  "2026-10-27",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.5/VietTest_v1.0.5.zip",
+    "sha256":  "DCF734705D55545D5061B3217EF0AF90A32436677B1A1F5925E40B4D85CE7F05",
+    "changelog":  "### VietTest v1.0.5 - Cấu hình thang điểm trắc nghiệm Đúng/Sai \u0026 Nâng cấp độ ổn định\n\n- **Cấu hình thang điểm đề thi:**\n  - Bổ sung cấu hình chi tiết thang điểm cho từng số lượng ý đúng của Phần II (Câu hỏi trắc nghiệm Đúng/Sai): Đúng 1 ý (0.10đ), Đúng 2 ý (0.25đ), Đúng 3 ý (0.50đ), Đúng 4 ý (1.00đ) với giao diện 4 hàng trực quan kèm nút \"Mặc định Bộ GD\".\n  - Chuẩn hóa Phần III (Trả lời ngắn): Cấu hình điểm từng câu và tổng điểm đồng bộ, linh hoạt.\n  - Tinh gọn giao diện Phần IV (Tự luận): Loại bỏ nút và ô nhập điểm mẫu không cần thiết.\n- **Ổn định hệ thống \u0026 Khắc phục lỗi:**\n  - Khắc phục lỗi crash ứng dụng khi khởi động do tham số `AppColor` và `OnUnlocked` của màn hình khóa bảo mật `VietAppsLockScreen`.\n  - Bổ sung cơ chế ghi nhật ký ngoại lệ `crash.log` để tự động lưu vết và chẩn đoán sự cố nhanh chóng.\n  - Sửa lỗi hiển thị dư ký tự `}` ở góc cuối trang Cài đặt chung hệ sinh thái.\n- **Tiến độ thi trực tuyến:**\n  - Đồng bộ trạng thái thí sinh vào làm bài với thanh tiến độ thời gian thực.",
     "isMandatory":  false
 }
