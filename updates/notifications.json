@@ -1,6 +1,16 @@
 {
   "notifications": [
     {
+      "id": "notif-20261028-vietmix-v105",
+      "title": "⚡ Cập nhật VietMix v1.0.5 - Chuẩn hóa giao diện Loading & Bảng tra cứu",
+      "content": "Bản cập nhật v1.0.5 nâng cấp giao diện trạng thái xử lý chuẩn hệ sinh thái VietApps (phân tách vòng xoay thanh lịch và thanh tiến độ mượt mà), tối ưu bảng tra cứu quy tắc soạn đề tinh gọn không cần cuộn trang và hỗ trợ linh hoạt các tham số ngoặc.",
+      "date": "2026-10-28",
+      "type": "update",
+      "targetApp": "all",
+      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/tag/vietmix-v1.0.5",
+      "actionText": "Xem chi tiết bản phát hành"
+    },
+    {
       "id": "notif-20261023-vietmix",
       "title": "🎉 Chính thức phát hành VietMix 2026 - Chuẩn hóa & Trộn đề thi GDPT 2018",
       "content": "VietMix 2026 chính thức ra mắt với khả năng chuẩn hóa và trộn đề thi theo cấu trúc 3 phần mới nhất của Bộ GD&ĐT (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn), bảo toàn 100% công thức Toán/Lý/Hóa MathType và hình ảnh. Tải bộ cài đặt ngay!",
