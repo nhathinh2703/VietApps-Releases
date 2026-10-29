@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-29",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.6/VietTest_v1.0.6.zip",
-    "sha256":  "BBF063C8D130D0BFBDCC3287D5CBABB0144EA92B75ECC4851D7A680371B1D0AA",
-    "changelog":  "### VietTest v1.0.6 - Khôi phục trạng thái ca thi, Chuẩn hóa Nhập/Xuất Excel CSDL ngành \u0026 Tùy biến chấm tự luận Gemini\n\n- **Mở lại ca thi \u0026 Bù giờ sự cố (Reopen Shift):**\n  - Bảo lưu chính xác 100% kết quả và điểm số bài thi của các thí sinh đã nộp bài (`Submitted`).\n  - Tự động khôi phục quyền làm tiếp và xóa cờ thu bài cưỡng chế cho thí sinh chưa hoàn thành (`ForceSubmitted` -\u003e `InProgress`).\n  - Đồng bộ thời gian thực qua SignalR (`OnExamReopened`), màn hình client của học sinh tự động quay lại làm bài mà không cần tải lại trang.\n  - Tự động cộng dồn số phút bù giờ sự cố cho ca thi và từng thí sinh chưa nộp bài.\n- **Chuẩn hóa Nhập/Xuất Excel theo dữ liệu ngành (vnEdu / SMAS / CSDL Bộ GD\u0026ĐT):**\n  - Tự động nhận diện cột `Trạng thái` (\"Đang học\", \"Thôi học kỳ 1\", \"Chuyển đi kỳ 1\", \"Thôi học trong hè\"...) đồng bộ vào trạng thái học tập của học sinh.\n  - Hỗ trợ đầy đủ các trường: `Mã định danh Bộ GD\u0026ĐT`, `Tên đăng nhập`, `Trạng thái học tập` khi nhập và xuất Excel.\n  - Thống nhất các nút chức năng nhập/xuất Excel tập trung trên thanh công cụ ứng dụng.\n- **Tùy biến Prompt chấm Gemini \u0026 Hỗ trợ bài làm không dấu:**\n  - Cho phép tùy biến trực tiếp Prompt chấm tự luận trong phần Cài đặt chuyên môn, hỗ trợ chấm động viên cho học sinh vùng khó khăn.\n  - Bổ sung tùy chọn cho phép Gemini tự động nhận diện và thêm dấu câu/dấu tiếng Việt trước khi chấm bài.\n  - Tinh chỉnh giao diện cài đặt chuyên môn, lược bỏ các phần chủ đề/màu sắc không cần thiết; tối ưu font chữ gợi ý (placeholder) trong các ô nhập liệu.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.7/VietTest_v1.0.7.zip",
+    "sha256":  "B8B4ECCB2663CD114343EF7B29A09076CCB47156511BA7BD2612DDC459BCA310",
+    "changelog":  "### VietTest v1.0.7 - Tối ưu giao diện toàn màn hình, thanh điều hướng \u0026 chuẩn hóa thiết kế\n\n- **Giao diện \u0026 Trải nghiệm (UI/UX):**\n  - Tối ưu không gian hiển thị toàn màn hình (full-width), tiêu chuẩn hóa phông chữ Segoe UI Variable 14px sắc nét, chống mỏi mắt.\n  - Bảng dữ liệu hỗ trợ cuộn mượt mà với tiêu đề cố định (sticky table header), phân biệt rõ dòng chẵn lẻ và kiểu chữ số liệu gọn gàng.\n  - Chuyển đổi thanh điều hướng danh mục Năm học \u0026 Môn học sang dạng Dropdown tinh gọn, tích hợp thanh lọc dữ liệu đồng nhất.\n- **Hệ sinh thái \u0026 Nhận diện thương hiệu:**\n  - Chuẩn hóa toàn bộ hộp thoại và trạng thái rỗng (Empty State) theo thiết kế dùng chung VietApps.\n  - Cập nhật tiêu đề cửa sổ ứng dụng \"VietTest - Kiểm tra\" và huy hiệu logo nhận diện tương phản cao.",
     "isMandatory":  false
 }
