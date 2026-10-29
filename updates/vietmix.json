@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-29",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.5/VietMix_v1.0.5.zip",
-    "sha256":  "544D24623F90F1343867F37BF97BA89C9ABFB8A503197E264C44A3EEB6E75A8C",
-    "changelog":  "### VietMix v1.0.5 - Chuẩn hóa giao diện Loading VietApps \u0026 Bảng tra cứu\n\n- **Chuẩn hóa hộp thoại xử lý (VietAppsLoadingModal):** Đồng bộ giao diện trạng thái xử lý chuẩn hệ sinh thái VietApps; tách biệt rõ ràng giữa tác vụ không xác định (vòng xoay thanh lịch) và tác vụ có tiến trình (thanh % mượt mà kèm số lượng mã đề), loại bỏ hoàn toàn sự trùng lặp thị giác.\n- **Tối ưu Bảng Tra Cứu Soạn Đề:** Thu gọn chiều cao tối đa, hiển thị trực quan toàn bộ quy tắc tham số `[cd]`, mức độ `[Biết/Hiểu/Vận dụng]`, điểm số, chùm câu `[\u003cN\u003e]` mà không cần cuộn trang.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.6/VietMix_v1.0.6.zip",
+    "sha256":  "D2A5421DA0844D8439CD31E0F92C8650643831404F7F999A8EDFDEB8E74D7738",
+    "changelog":  "### VietMix v1.0.6 - Chuẩn hóa Menu Danh mục \u0026 Nâng cấp Ma trận Chủ đề GDPT 2018\n\n- **Chuẩn hóa Menu Danh mục \u0026 Khung giới thiệu (VietAppsIntroCard):** Đồng bộ giao diện menu con và thanh điều hướng danh mục theo thiết kế chuẩn VietApps; tích hợp dải tab chuyển đổi trực tiếp trong khung giới thiệu cho Năm học, Môn học và Chủ đề \u0026 Bài học.\n- **Tối ưu không gian Ma trận Chủ đề \u0026 YCCĐ:** Mở rộng giao diện hiển thị 100% full chiều rộng; tối ưu thao tác nhập danh mục chuyên nghiệp từ Word 3 cột; loại bỏ các thao tác JSON thừa.\n- **Sửa lỗi \u0026 Hoàn thiện giao diện:** Khắc phục lỗi hiển thị hộp thoại xác nhận xóa danh sách và lỗi ẩn cửa sổ xuất Đề cương; đồng bộ kích thước và phong cách nút bấm theo design system chung.",
     "isMandatory":  false
 }
