@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-29",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.5/VietMix_v1.0.5.zip",
-    "sha256":  "E48EA54C389989E01E8B63DBD297F0160FB041908F38C9467A04E75F62C54368",
+    "sha256":  "544D24623F90F1343867F37BF97BA89C9ABFB8A503197E264C44A3EEB6E75A8C",
     "changelog":  "### VietMix v1.0.5 - Chuẩn hóa giao diện Loading VietApps \u0026 Bảng tra cứu\n\n- **Chuẩn hóa hộp thoại xử lý (VietAppsLoadingModal):** Đồng bộ giao diện trạng thái xử lý chuẩn hệ sinh thái VietApps; tách biệt rõ ràng giữa tác vụ không xác định (vòng xoay thanh lịch) và tác vụ có tiến trình (thanh % mượt mà kèm số lượng mã đề), loại bỏ hoàn toàn sự trùng lặp thị giác.\n- **Tối ưu Bảng Tra Cứu Soạn Đề:** Thu gọn chiều cao tối đa, hiển thị trực quan toàn bộ quy tắc tham số `[cd]`, mức độ `[Biết/Hiểu/Vận dụng]`, điểm số, chùm câu `[\u003cN\u003e]` mà không cần cuộn trang.",
     "isMandatory":  false
 }
