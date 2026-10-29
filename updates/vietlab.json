@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-29",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.1/VietLab_v1.0.1.zip",
-    "sha256":  "CF8C0DAA9CCB5087B93F5B0FE0919A7C34338B97994C70747BF31683B648AD54",
-    "changelog":  "### VietLab v1.0.1 - Ban nang cap \u0026 on dinh he thong\n\n- Giam sat man hinh real-time: Thanh truot phong to/thu nho card (180px - 480px), co dinh ti le chuan 16:9 khong bi gian.\n- Tang cuong chat luong anh thumbnail giam sat (480x270 @ 60% quality).\n- Tu dong khoi chay cung Windows (Auto-start on boot) va tu dong ket noi lai may chu khi mat mang / khoi dong lai.\n- Bao ve go cai dat va tat phan mem: Yeu cau xac thuc mat khau giao vien truoc khi thoat hoac go bo Client tren may hoc sinh.\n- Fix lenh cai dat nhanh 1-Click qua PowerShell.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.2/VietLab_v1.0.2.zip",
+    "sha256":  "AB51678C7CEA00F6DBC31DB74DB946C81B5F9622F6E03CF6626355C110F61862",
+    "changelog":  "### VietLab v1.0.2 - Toi uu hoa bo cai dat \u0026 Nang cap trai nghiem giam sat\n\n- Toi uu quy trinh cai dat Client: Phuc vu truc tiep bo cai dat Inno Setup (.exe) qua Cong thong tin web LAN, loai bo cac thao tac script phuc tap.\n- Cong thong tin hoc sinh tinh gon, hien dai: Tich hop tai bo cai, trao doi voi giao vien (gio tay, nhan tin) va tai lieu bai hoc truc quan.\n- Client bo sung menu va loi tat: Nhap dup vao icon khay he thong hoac menu chuot phai de mo nhanh Cong thong tin.\n- Trang Cai dat mo rong full-width tran vien, dong bo trai nghiem nguoi dung.\n- Giam sat truc tiep thoi gian thuc: Thong bao popup khi may con ket noi, mat ket noi, gio tay, nhan tin; ho tro gui tin nhan nhanh toi tung may hoac toan phong.\n- Nang cap dieu khien tu xa toan man hinh va hien thi chinh xac toa do chuot tren may con.",
     "isMandatory":  false
 }
