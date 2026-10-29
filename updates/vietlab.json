@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-30",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.3/VietLab_v1.0.3.zip",
-    "sha256":  "FAE4D5708FDE797B04338EA5EC79B0447B2EBE62EFAAA392EB7C13AAF4CB29C9",
+    "sha256":  "2C61E231DA83FE442B7EEEF5AB28FD9D5D7EFAE14D1C537D078D951EC9C32B2F",
     "changelog":  "### VietLab v1.0.3 - Kiem soat toan dien, bao ve tien trinh \u0026 Tu dong nang cap Client\n\n- Tu dong phat hien \u0026 nang cap Client: May con tu dong kiem tra phien ban khi ket noi Server va tu dong cai dat ngam ban moi nhat trong 3 giay.\n- Tich hop bo cai Client vao Server: Server luon mang san bo cai dat Client chuan Inno Setup de phuc vu tai qua Cong thong tin LAN hoac lenh tu dong nang cap.\n- Chan tat VietLab.Client qua Task Manager: Vo hieu hoa Task Manager (DisableTaskMgr) va bo sung Watchdog tu dong dong cac cong cu can thiep tien trinh.\n- Khoa doc lap chuot \u0026 ban phim: Khoa phan cung nhap lieu kem thanh thong bao noi tren man hinh, van giu nguyen desktop de hoc sinh xem huong dan.\n- Vo hieu hoa Startup tren may con: Tu dong don sach cac ung dung la khoi dong cung Windows tren may hoc sinh.\n- Che do man hinh luon sang: Tu dong cau hinh Never Sleep (powercfg) giup man hinh khong bi tat va khong bi ngat ket noi mang.\n- Nang cap Cá»•ng thÃ´ng tin hoc sinh \u0026 Giao dien giam sat: Thiet ke tinh gon hien dai, phan bo bo cuc 50/50 can doi giua cac tinh nang.",
     "isMandatory":  false
 }
