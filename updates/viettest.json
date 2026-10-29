@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.5",
+    "version":  "1.0.6",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-27",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.5/VietTest_v1.0.5.zip",
-    "sha256":  "DCF734705D55545D5061B3217EF0AF90A32436677B1A1F5925E40B4D85CE7F05",
-    "changelog":  "### VietTest v1.0.5 - Cấu hình thang điểm trắc nghiệm Đúng/Sai \u0026 Nâng cấp độ ổn định\n\n- **Cấu hình thang điểm đề thi:**\n  - Bổ sung cấu hình chi tiết thang điểm cho từng số lượng ý đúng của Phần II (Câu hỏi trắc nghiệm Đúng/Sai): Đúng 1 ý (0.10đ), Đúng 2 ý (0.25đ), Đúng 3 ý (0.50đ), Đúng 4 ý (1.00đ) với giao diện 4 hàng trực quan kèm nút \"Mặc định Bộ GD\".\n  - Chuẩn hóa Phần III (Trả lời ngắn): Cấu hình điểm từng câu và tổng điểm đồng bộ, linh hoạt.\n  - Tinh gọn giao diện Phần IV (Tự luận): Loại bỏ nút và ô nhập điểm mẫu không cần thiết.\n- **Ổn định hệ thống \u0026 Khắc phục lỗi:**\n  - Khắc phục lỗi crash ứng dụng khi khởi động do tham số `AppColor` và `OnUnlocked` của màn hình khóa bảo mật `VietAppsLockScreen`.\n  - Bổ sung cơ chế ghi nhật ký ngoại lệ `crash.log` để tự động lưu vết và chẩn đoán sự cố nhanh chóng.\n  - Sửa lỗi hiển thị dư ký tự `}` ở góc cuối trang Cài đặt chung hệ sinh thái.\n- **Tiến độ thi trực tuyến:**\n  - Đồng bộ trạng thái thí sinh vào làm bài với thanh tiến độ thời gian thực.",
+    "releaseDate":  "2026-10-29",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.6/VietTest_v1.0.6.zip",
+    "sha256":  "BBF063C8D130D0BFBDCC3287D5CBABB0144EA92B75ECC4851D7A680371B1D0AA",
+    "changelog":  "### VietTest v1.0.6 - Khôi phục trạng thái ca thi, Chuẩn hóa Nhập/Xuất Excel CSDL ngành \u0026 Tùy biến chấm tự luận Gemini\n\n- **Mở lại ca thi \u0026 Bù giờ sự cố (Reopen Shift):**\n  - Bảo lưu chính xác 100% kết quả và điểm số bài thi của các thí sinh đã nộp bài (`Submitted`).\n  - Tự động khôi phục quyền làm tiếp và xóa cờ thu bài cưỡng chế cho thí sinh chưa hoàn thành (`ForceSubmitted` -\u003e `InProgress`).\n  - Đồng bộ thời gian thực qua SignalR (`OnExamReopened`), màn hình client của học sinh tự động quay lại làm bài mà không cần tải lại trang.\n  - Tự động cộng dồn số phút bù giờ sự cố cho ca thi và từng thí sinh chưa nộp bài.\n- **Chuẩn hóa Nhập/Xuất Excel theo dữ liệu ngành (vnEdu / SMAS / CSDL Bộ GD\u0026ĐT):**\n  - Tự động nhận diện cột `Trạng thái` (\"Đang học\", \"Thôi học kỳ 1\", \"Chuyển đi kỳ 1\", \"Thôi học trong hè\"...) đồng bộ vào trạng thái học tập của học sinh.\n  - Hỗ trợ đầy đủ các trường: `Mã định danh Bộ GD\u0026ĐT`, `Tên đăng nhập`, `Trạng thái học tập` khi nhập và xuất Excel.\n  - Thống nhất các nút chức năng nhập/xuất Excel tập trung trên thanh công cụ ứng dụng.\n- **Tùy biến Prompt chấm Gemini \u0026 Hỗ trợ bài làm không dấu:**\n  - Cho phép tùy biến trực tiếp Prompt chấm tự luận trong phần Cài đặt chuyên môn, hỗ trợ chấm động viên cho học sinh vùng khó khăn.\n  - Bổ sung tùy chọn cho phép Gemini tự động nhận diện và thêm dấu câu/dấu tiếng Việt trước khi chấm bài.\n  - Tinh chỉnh giao diện cài đặt chuyên môn, lược bỏ các phần chủ đề/màu sắc không cần thiết; tối ưu font chữ gợi ý (placeholder) trong các ô nhập liệu.",
     "isMandatory":  false
 }
