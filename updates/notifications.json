@@ -1,6 +1,16 @@
 {
   "notifications": [
     {
+      "id": "notif-20261029-viettest-v107",
+      "title": "⚡ Cập nhật VietTest v1.0.7 - Tối ưu toàn màn hình, thanh điều hướng & chuẩn hóa giao diện",
+      "content": "Bản cập nhật v1.0.7 tối ưu không gian hiển thị toàn màn hình, chuẩn hóa phông chữ Segoe UI Variable 14px sắc nét, bổ sung bảng cuộn với tiêu đề cố định, chuyển đổi điều hướng danh mục sang Dropdown tinh gọn và chuẩn hóa hệ thống Modal theo chuẩn VietApps.",
+      "date": "2026-10-29",
+      "type": "update",
+      "targetApp": "all",
+      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/tag/viettest-v1.0.7",
+      "actionText": "Xem chi tiết bản phát hành"
+    },
+    {
       "id": "notif-20261029-viettest-v106",
       "title": "⚡ Cập nhật VietTest v1.0.6 - Khôi phục trạng thái ca thi & Chuẩn hóa Excel ngành",
       "content": "Bản cập nhật v1.0.6 bảo lưu 100% bài đã nộp khi mở lại ca thi và cho phép thí sinh làm tiếp với bù giờ sự cố; tự động nhận diện trạng thái học sinh (Đang học, Thôi học, Chuyển đi) từ vnEdu/SMAS; hỗ trợ tùy biến Prompt chấm và tự động thêm dấu câu cho bài làm gõ không dấu.",
