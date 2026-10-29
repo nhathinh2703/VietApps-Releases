@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-29",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.0/VietLab_v1.0.0.zip",
-    "sha256":  "3F768C5A986BED995EA85FB477755C3A722AF90934566065517D44F4A056B55E",
+    "sha256":  "6DF0F0F24FF73BD3AD1617147CD93059DBC5F2C52A25DB49D6362A51D0E71375",
     "changelog":  "### VietLab v1.0.0 - Phat hanh chinh thuc\n\n- Quan ly va giam sat phong may mang LAN chuyen nghiep.\n- Nhan dien may tram tu dong qua UDP Beacon khong can cau hinh IP tinh.\n- Dieu khien, khoa/mo man hinh, truyen phat file va mo cong thi truc tuyen VietTest.\n- Dang nhap SSO dong bo voi toan he sinh thai VietApps.\n- Toi uu hoa bo cai: Tach rieng bo cai May Giao Vien va May Hoc Sinh.",
     "isMandatory":  false
 }
