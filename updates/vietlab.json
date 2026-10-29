@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-29",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.0/VietLab_v1.0.0.zip",
-    "sha256":  "6DF0F0F24FF73BD3AD1617147CD93059DBC5F2C52A25DB49D6362A51D0E71375",
-    "changelog":  "### VietLab v1.0.0 - Phat hanh chinh thuc\n\n- Quan ly va giam sat phong may mang LAN chuyen nghiep.\n- Nhan dien may tram tu dong qua UDP Beacon khong can cau hinh IP tinh.\n- Dieu khien, khoa/mo man hinh, truyen phat file va mo cong thi truc tuyen VietTest.\n- Dang nhap SSO dong bo voi toan he sinh thai VietApps.\n- Toi uu hoa bo cai: Tach rieng bo cai May Giao Vien va May Hoc Sinh.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.1/VietLab_v1.0.1.zip",
+    "sha256":  "CF8C0DAA9CCB5087B93F5B0FE0919A7C34338B97994C70747BF31683B648AD54",
+    "changelog":  "### VietLab v1.0.1 - Ban nang cap \u0026 on dinh he thong\n\n- Giam sat man hinh real-time: Thanh truot phong to/thu nho card (180px - 480px), co dinh ti le chuan 16:9 khong bi gian.\n- Tang cuong chat luong anh thumbnail giam sat (480x270 @ 60% quality).\n- Tu dong khoi chay cung Windows (Auto-start on boot) va tu dong ket noi lai may chu khi mat mang / khoi dong lai.\n- Bao ve go cai dat va tat phan mem: Yeu cau xac thuc mat khau giao vien truoc khi thoat hoac go bo Client tren may hoc sinh.\n- Fix lenh cai dat nhanh 1-Click qua PowerShell.",
     "isMandatory":  false
 }
