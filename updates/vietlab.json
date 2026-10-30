@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-30",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.4/VietLab_v1.0.4.zip",
-    "sha256":  "C8DFDDAED9A8FDBC3383D70134C63B72D2266300CC4AB8E2DF806DB54EF4FC73",
-    "changelog":  "### VietLab v1.0.4 - Doi hinh nen phong may, Cai dat phan mem tu dong qua LAN \u0026 Toi uu Dieu khien tu xa\n\n- Doi hinh nen phong may dong loat: Dat hinh nen chuan VietLab hoac hinh anh tuy chinh xuong toan bo may con hoac may da chon ngay tuc thi ma khong can khoi dong lai.\n- Trung tam cai dat phan mem tu dong (Silent Deploy): Cai dat ngam 1-Click cac ung dung pho bien (Chrome, UniKey, UltraViewer, Notepad++, Scratch, Python...) qua mang LAN noi bo sieu toc.\n- Bao tri \u0026 Quet Windows Update: Kich hoat quet va cap nhat ban va Windows tu xa phuc vu bao tri phong may.\n- Sua triet de dieu khien tu xa (Remote Control): Tinh toan chinh xac toa do chuot pixel-perfect 1:1, go phim truc tiep xuong may hoc sinh, bam an ngay 100%.\n- Loai bo loi lap ket noi va Toast spam: Khac phuc vong lap tu dong nang cap ngam cua Client cu va bo sung cooldown thong bao tren Server.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.5/VietLab_v1.0.5.zip",
+    "sha256":  "C9CB7628FA713EE23F97BD199CCDBB3364D96357B12E90FACBB24FEC19A15922",
+    "changelog":  "### VietLab v1.0.5 - On dinh ket noi may tram, Toi gian Client Tray \u0026 Chong nhay man hinh GV\n\n- Khac phuc triet de loi lap ket noi/ngat ket noi: Bo sung Single-Instance Mutex chong chay trung lap tien trinh Client, dong bo SemaphoreSlim va khoa trang thai ket noi chong xung dot UDP Beacon.\n- Chuyen tiep ngat ket noi thong minh tren Server: Chi danh dau may tram offline khi khong con bat ky ket noi hop le nao, loai bo tinh trang nhay trang thai.\n- Toi uu man hinh giam sat Giao vien: Ap dung bo dem debounce giam tan suat ve lai luoi giam sat, triet tieu hoan toan hien tuong nhay/chop man hinh.\n- Cooldown Toast chong spam: Tu dong chan hien thong bao luan phien khi mang chap chon trong vong 8 giay.\n- Toi gian Icon Tray tren may con: Tinh gon menu chi giu lai nut mo Cong thong tin phong may va Thoat quan tri; chuyen toan bo tuong tac hoc sinh len Cong thong tin web, giam toi da ap luc cap nhat Client trong tuong lai.",
     "isMandatory":  false
 }
