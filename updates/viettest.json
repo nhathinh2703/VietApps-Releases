@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-29",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.7/VietTest_v1.0.7.zip",
-    "sha256":  "B8B4ECCB2663CD114343EF7B29A09076CCB47156511BA7BD2612DDC459BCA310",
-    "changelog":  "### VietTest v1.0.7 - Tối ưu giao diện toàn màn hình, thanh điều hướng \u0026 chuẩn hóa thiết kế\n\n- **Giao diện \u0026 Trải nghiệm (UI/UX):**\n  - Tối ưu không gian hiển thị toàn màn hình (full-width), tiêu chuẩn hóa phông chữ Segoe UI Variable 14px sắc nét, chống mỏi mắt.\n  - Bảng dữ liệu hỗ trợ cuộn mượt mà với tiêu đề cố định (sticky table header), phân biệt rõ dòng chẵn lẻ và kiểu chữ số liệu gọn gàng.\n  - Chuyển đổi thanh điều hướng danh mục Năm học \u0026 Môn học sang dạng Dropdown tinh gọn, tích hợp thanh lọc dữ liệu đồng nhất.\n- **Hệ sinh thái \u0026 Nhận diện thương hiệu:**\n  - Chuẩn hóa toàn bộ hộp thoại và trạng thái rỗng (Empty State) theo thiết kế dùng chung VietApps.\n  - Cập nhật tiêu đề cửa sổ ứng dụng \"VietTest - Kiểm tra\" và huy hiệu logo nhận diện tương phản cao.",
+    "releaseDate":  "2026-10-30",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.0.8/VietTest_v1.0.8.zip",
+    "sha256":  "5D0AC872EB7FDEFFBBD1CBA726393592E5EFBEC56AB32DDEFDF7CAE0EB678292",
+    "changelog":  "### VietTest v1.0.8 - Khắc phục con lăn cuộn trang, tối ưu Submenu Dropdown \u0026 Trải nghiệm thi cử\n\n- **Sửa lỗi \u0026 Ổn định trải nghiệm thi cử:**\n  - Khắc phục triệt để lỗi con lăn (cuộn chuột) ở các trang chức năng dài (Quản lý kỳ thi, môn thi, ca thi, danh sách học sinh, chấm thi), đảm bảo cuộn mượt và xem trọn vẹn toàn bộ dữ liệu đến cuối trang.\n  - Loại bỏ bẫy cuộn lồng nhau ở bảng phân ca thi, tối ưu hiển thị danh sách phòng thi và học sinh làm bài không bị che khuất.\n- **Tối ưu hóa Giao diện \u0026 Không gian làm việc:**\n  - Nâng cấp thanh điều hướng danh mục Năm học \u0026 Môn học thành Dropdown popover tinh gọn, tự động đóng khi chọn hoặc nhấn ra ngoài.\n  - Tích hợp bộ lọc trực tiếp vào khung tiêu đề chức năng, loại bỏ các khối thừa để mở rộng tối đa khung nhìn cho bảng dữ liệu.\n  - Bảng dữ liệu tự động chiếm tối đa chiều cao cửa sổ với tiêu đề cố định (sticky header), đồng bộ font chữ hệ thống không in đậm cột, giữ khoảng cách thoáng với footer.\n- **Đồng bộ Hệ sinh thái VietApps:**\n  - Cập nhật hiển thị chân trang (Footer), loại bỏ gạch chân đường dẫn CSDL đồng nhất theo chuẩn thiết kế mới.",
     "isMandatory":  false
 }
