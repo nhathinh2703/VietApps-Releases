@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-10-30",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.3/VietLab_v1.0.3.zip",
-    "sha256":  "2C61E231DA83FE442B7EEEF5AB28FD9D5D7EFAE14D1C537D078D951EC9C32B2F",
-    "changelog":  "### VietLab v1.0.3 - Kiem soat toan dien, bao ve tien trinh \u0026 Tu dong nang cap Client\n\n- Tu dong phat hien \u0026 nang cap Client: May con tu dong kiem tra phien ban khi ket noi Server va tu dong cai dat ngam ban moi nhat trong 3 giay.\n- Tich hop bo cai Client vao Server: Server luon mang san bo cai dat Client chuan Inno Setup de phuc vu tai qua Cong thong tin LAN hoac lenh tu dong nang cap.\n- Chan tat VietLab.Client qua Task Manager: Vo hieu hoa Task Manager (DisableTaskMgr) va bo sung Watchdog tu dong dong cac cong cu can thiep tien trinh.\n- Khoa doc lap chuot \u0026 ban phim: Khoa phan cung nhap lieu kem thanh thong bao noi tren man hinh, van giu nguyen desktop de hoc sinh xem huong dan.\n- Vo hieu hoa Startup tren may con: Tu dong don sach cac ung dung la khoi dong cung Windows tren may hoc sinh.\n- Che do man hinh luon sang: Tu dong cau hinh Never Sleep (powercfg) giup man hinh khong bi tat va khong bi ngat ket noi mang.\n- Nang cap Cá»•ng thÃ´ng tin hoc sinh \u0026 Giao dien giam sat: Thiet ke tinh gon hien dai, phan bo bo cuc 50/50 can doi giua cac tinh nang.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.4/VietLab_v1.0.4.zip",
+    "sha256":  "C8DFDDAED9A8FDBC3383D70134C63B72D2266300CC4AB8E2DF806DB54EF4FC73",
+    "changelog":  "### VietLab v1.0.4 - Doi hinh nen phong may, Cai dat phan mem tu dong qua LAN \u0026 Toi uu Dieu khien tu xa\n\n- Doi hinh nen phong may dong loat: Dat hinh nen chuan VietLab hoac hinh anh tuy chinh xuong toan bo may con hoac may da chon ngay tuc thi ma khong can khoi dong lai.\n- Trung tam cai dat phan mem tu dong (Silent Deploy): Cai dat ngam 1-Click cac ung dung pho bien (Chrome, UniKey, UltraViewer, Notepad++, Scratch, Python...) qua mang LAN noi bo sieu toc.\n- Bao tri \u0026 Quet Windows Update: Kich hoat quet va cap nhat ban va Windows tu xa phuc vu bao tri phong may.\n- Sua triet de dieu khien tu xa (Remote Control): Tinh toan chinh xac toa do chuot pixel-perfect 1:1, go phim truc tiep xuong may hoc sinh, bam an ngay 100%.\n- Loai bo loi lap ket noi va Toast spam: Khac phuc vong lap tu dong nang cap ngam cua Client cu va bo sung cooldown thong bao tren Server.",
     "isMandatory":  false
 }
