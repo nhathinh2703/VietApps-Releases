@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "1.0.5",
+    "version":  "1.1.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-30",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.0.5/VietLab_v1.0.5.zip",
-    "sha256":  "C9CB7628FA713EE23F97BD199CCDBB3364D96357B12E90FACBB24FEC19A15922",
-    "changelog":  "### VietLab v1.0.5 - On dinh ket noi may tram, Toi gian Client Tray \u0026 Chong nhay man hinh GV\n\n- Khac phuc triet de loi lap ket noi/ngat ket noi: Bo sung Single-Instance Mutex chong chay trung lap tien trinh Client, dong bo SemaphoreSlim va khoa trang thai ket noi chong xung dot UDP Beacon.\n- Chuyen tiep ngat ket noi thong minh tren Server: Chi danh dau may tram offline khi khong con bat ky ket noi hop le nao, loai bo tinh trang nhay trang thai.\n- Toi uu man hinh giam sat Giao vien: Ap dung bo dem debounce giam tan suat ve lai luoi giam sat, triet tieu hoan toan hien tuong nhay/chop man hinh.\n- Cooldown Toast chong spam: Tu dong chan hien thong bao luan phien khi mang chap chon trong vong 8 giay.\n- Toi gian Icon Tray tren may con: Tinh gon menu chi giu lai nut mo Cong thong tin phong may va Thoat quan tri; chuyen toan bo tuong tac hoc sinh len Cong thong tin web, giam toi da ap luc cap nhat Client trong tuong lai.",
+    "releaseDate":  "2026-11-01",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.1.0/VietLab_v1.1.0.zip",
+    "sha256":  "40DC2764C6742FDF642E600A014F4122425C1F7F3F76620E7B786C7134C95DE8",
+    "changelog":  "### VietLab v1.1.0 - Quản lý Phòng máy \u0026 Ổn định Mạng LAN\n\n- Giao diện chuẩn hóa: Đồng bộ Header/Footer cố định, phông Segoe UI Variable sắc nét cho Server và Client.\n- Ổn định kết nối: Tối ưu hóa luồng UDP Beacon và SignalR Hub, loại bỏ hiện tượng nhấp nháy màn hình giám sát.\n- Đồng bộ hệ sinh thái: Quản lý CSDL nhật ký và danh mục thiết bị theo chuẩn VietApps 2026.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime cho cả Server và Client.",
     "isMandatory":  false
 }
