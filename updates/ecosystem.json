@@ -1,6 +1,6 @@
 {
     "organization":  "VietApps",
-    "tagline":  "Hệ sinh thái Phần mềm miễn phí",
+    "tagline":  "Hệ sinh thái Phần mềm Giáo dục miễn phí",
     "copyright":  "© 2026 VietApps",
     "contact":  {
                     "hotline":  "0775426999",
@@ -18,20 +18,20 @@
                  {
                      "id":  "viettest",
                      "name":  "VietTest",
-                     "description":  "Hệ thống Kiểm tra \u0026 Đánh giá năng lực học sinh",
+                     "description":  "Tổ chức khảo thí, kiểm tra \u0026 thi mạng LAN chống gian lận",
                      "status":  "official"
                  },
                  {
-                     "id":  "vietfix",
-                     "name":  "VietFix",
-                     "description":  "Chuẩn hóa định dạng Word \u0026 Chữa lỗi đề thi",
-                     "status":  "upcoming"
+                     "id":  "vietgrade",
+                     "name":  "VietGrade",
+                     "description":  "Nhận dạng \u0026 Chấm phiếu trắc nghiệm OMR chuẩn Bộ GD\u0026ĐT",
+                     "status":  "official"
                  },
                  {
-                     "id":  "vietlan",
-                     "name":  "VietLAN",
-                     "description":  "Thi trắc nghiệm qua mạng nội bộ không cần Internet",
-                     "status":  "upcoming"
+                     "id":  "vietlab",
+                     "name":  "VietLab",
+                     "description":  "Quản lý \u0026 Giám sát phòng máy tính trường học qua mạng LAN",
+                     "status":  "official"
                  }
              ]
 }

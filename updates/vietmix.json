@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.0.6",
+    "version":  "1.1.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-29",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.0.6/VietMix_v1.0.6.zip",
-    "sha256":  "D2A5421DA0844D8439CD31E0F92C8650643831404F7F999A8EDFDEB8E74D7738",
-    "changelog":  "### VietMix v1.0.6 - Chuẩn hóa Menu Danh mục \u0026 Nâng cấp Ma trận Chủ đề GDPT 2018\n\n- **Chuẩn hóa Menu Danh mục \u0026 Khung giới thiệu (VietAppsIntroCard):** Đồng bộ giao diện menu con và thanh điều hướng danh mục theo thiết kế chuẩn VietApps; tích hợp dải tab chuyển đổi trực tiếp trong khung giới thiệu cho Năm học, Môn học và Chủ đề \u0026 Bài học.\n- **Tối ưu không gian Ma trận Chủ đề \u0026 YCCĐ:** Mở rộng giao diện hiển thị 100% full chiều rộng; tối ưu thao tác nhập danh mục chuyên nghiệp từ Word 3 cột; loại bỏ các thao tác JSON thừa.\n- **Sửa lỗi \u0026 Hoàn thiện giao diện:** Khắc phục lỗi hiển thị hộp thoại xác nhận xóa danh sách và lỗi ẩn cửa sổ xuất Đề cương; đồng bộ kích thước và phong cách nút bấm theo design system chung.",
+    "releaseDate":  "2026-11-01",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.1.0/VietMix_v1.1.0.zip",
+    "sha256":  "55DFBC53C59A449CA4DC437FB9495922D7051BF13F9F27838AEDA2763EAE043E",
+    "changelog":  "### VietMix v1.1.0 - Chuẩn hóa Giao diện \u0026 Liên thông CSDL Sinh thái\n\n- Giao diện đồng nhất: Full 100% chiều rộng, Header \u0026 Footer cố định, phông chữ Segoe UI Variable hiện đại.\n- Bảng dữ liệu \u0026 Thao tác: Nút thao tác chuẩn 28x28px, bổ sung checkbox chọn nhiều dòng để xử lý hàng loạt.\n- Cơ sở dữ liệu tập trung: Tích hợp Master Schema và cơ chế liên thông CSDL dùng chung trong hệ sinh thái VietApps.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, tối ưu hóa dung lượng tải về.",
     "isMandatory":  false
 }

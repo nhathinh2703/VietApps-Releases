@@ -1,54 +1,14 @@
 {
   "notifications": [
     {
-      "id": "notif-20261029-viettest-v107",
-      "title": "⚡ Cập nhật VietTest v1.0.7 - Tối ưu toàn màn hình, thanh điều hướng & chuẩn hóa giao diện",
-      "content": "Bản cập nhật v1.0.7 tối ưu không gian hiển thị toàn màn hình, chuẩn hóa phông chữ Segoe UI Variable 14px sắc nét, bổ sung bảng cuộn với tiêu đề cố định, chuyển đổi điều hướng danh mục sang Dropdown tinh gọn và chuẩn hóa hệ thống Modal theo chuẩn VietApps.",
-      "date": "2026-10-29",
+      "id": "notif-20261101-vietapps-v110",
+      "title": "🎉 Phát hành chính thức Hệ sinh thái VietApps v1.1.0",
+      "content": "Phiên bản v1.1.0 nâng cấp toàn diện cả 4 ứng dụng (VietMix, VietTest, VietGrade, VietLab): Chuẩn hóa giao diện full chiều rộng, thống nhất phông chữ Segoe UI Variable sắc nét, tối ưu bộ cài siêu nhẹ với cơ chế cài ngầm .NET 10, quản lý CSDL tập trung và liên thông dữ liệu chéo giữa các ứng dụng.",
+      "date": "2026-11-01",
       "type": "update",
       "targetApp": "all",
-      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/tag/viettest-v1.0.7",
+      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases",
       "actionText": "Xem chi tiết bản phát hành"
-    },
-    {
-      "id": "notif-20261029-viettest-v106",
-      "title": "⚡ Cập nhật VietTest v1.0.6 - Khôi phục trạng thái ca thi & Chuẩn hóa Excel ngành",
-      "content": "Bản cập nhật v1.0.6 bảo lưu 100% bài đã nộp khi mở lại ca thi và cho phép thí sinh làm tiếp với bù giờ sự cố; tự động nhận diện trạng thái học sinh (Đang học, Thôi học, Chuyển đi) từ vnEdu/SMAS; hỗ trợ tùy biến Prompt chấm và tự động thêm dấu câu cho bài làm gõ không dấu.",
-      "date": "2026-10-29",
-      "type": "update",
-      "targetApp": "all",
-      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/tag/viettest-v1.0.6",
-      "actionText": "Xem chi tiết bản phát hành"
-    },
-    {
-      "id": "notif-20261028-vietmix-v105",
-      "title": "⚡ Cập nhật VietMix v1.0.5 - Chuẩn hóa giao diện Loading & Bảng tra cứu",
-      "content": "Bản cập nhật v1.0.5 nâng cấp giao diện trạng thái xử lý chuẩn hệ sinh thái VietApps (phân tách vòng xoay thanh lịch và thanh tiến độ mượt mà), tối ưu bảng tra cứu quy tắc soạn đề tinh gọn không cần cuộn trang và hỗ trợ linh hoạt các tham số ngoặc.",
-      "date": "2026-10-28",
-      "type": "update",
-      "targetApp": "all",
-      "actionUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/tag/vietmix-v1.0.5",
-      "actionText": "Xem chi tiết bản phát hành"
-    },
-    {
-      "id": "notif-20261023-vietmix",
-      "title": "🎉 Chính thức phát hành VietMix 2026 - Chuẩn hóa & Trộn đề thi GDPT 2018",
-      "content": "VietMix 2026 chính thức ra mắt với khả năng chuẩn hóa và trộn đề thi theo cấu trúc 3 phần mới nhất của Bộ GD&ĐT (Trắc nghiệm nhiều lựa chọn, Đúng/Sai, Trả lời ngắn), bảo toàn 100% công thức Toán/Lý/Hóa MathType và hình ảnh. Tải bộ cài đặt ngay!",
-      "date": "2026-10-23",
-      "type": "update",
-      "targetApp": "all",
-      "actionUrl": "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
-      "actionText": "Tải bộ cài đặt VietMix"
-    },
-    {
-      "id": "notif-20261023-viettest",
-      "title": "🚀 Chính thức phát hành VietTest 2026 - Khảo thí & Thi mạng LAN chống gian lận",
-      "content": "VietTest 2026 hỗ trợ tổ chức thi trắc nghiệm offline toàn diện trong mạng LAN không phụ thuộc Internet, tích hợp Kiosk Mode chống gian lận trên máy học sinh, tự động chia ca thi phòng máy và xuất bảng điểm chuẩn SMAS/VnEdu.",
-      "date": "2026-10-23",
-      "type": "update",
-      "targetApp": "all",
-      "actionUrl": "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
-      "actionText": "Tải bộ cài đặt VietTest"
     }
   ]
 }
