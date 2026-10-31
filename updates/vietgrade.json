@@ -1,11 +1,11 @@
 {
     "appId":  "VietGrade",
     "appName":  "VietGrade",
-    "version":  "1.0.0",
+    "version":  "1.1.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-10-24",
-    "downloadUrl":  "https://drive.google.com/drive/folders/19Bt4kbvj4u9K38yCcvkwxXtJQy8TS44n",
-    "sha256":  "",
-    "changelog":  "### VietGrade v1.0.0 - Phát hành chính thức\n- **Chấm thi OMR chuẩn BGD:** Nhận dạng phiếu trắc nghiệm GDPT 2018 với độ chính xác cao.\n- **Chấm hàng loạt:** Quét toàn bộ thư mục bài làm của học sinh trong vài giây.\n- **Xuất kết quả:** Xuất bảng điểm chi tiết ra Excel chuẩn hóa.",
+    "releaseDate":  "2026-11-01",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietgrade-v1.1.0/VietGrade_v1.1.0.zip",
+    "sha256":  "B50FDFDFFB572FDDA67EBFD599A44559D22D9D3BF384599D599F389FE153B97E",
+    "changelog":  "### VietGrade v1.1.0 - Chấm thi OMR GDPT 2018 \u0026 Đồng bộ Sinh thái\n\n- Giao diện chuẩn hóa: Đồng bộ toàn diện layout, padding tinh gọn, nút thao tác chuẩn 28x28px.\n- Liên thông dữ liệu: Đọc trực tiếp danh sách thí sinh và kỳ thi từ VietTest mà không cần file trung gian.\n- Quy trình chấm chuẩn BGD: Tối ưu hóa 3 công đoạn CĐ0 - CĐ1 - CĐ2, xuất bảng điểm nhanh chóng.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, giảm 85% dung lượng tải.",
     "isMandatory":  false
 }
