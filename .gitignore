@@ -1,0 +1,10 @@
+# VietApps Releases - Git Ignore
+# File vault bí mật lưu key cục bộ (TUYỆT ĐỐI KHÔNG PUSH LÊN GITHUB)
+secrets_vault.json
+secrets_vault.local.json
+private_keys.json
+*.key
+*.secret
+*.tmp
+.DS_Store
+Thumbs.db
