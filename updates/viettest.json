@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-01",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.1.0/VietTest_v1.1.0.zip",
-    "sha256":  "4DC48FDAF7EF9EB21AA0D9221E2827F06DF95C4B63F01C7F5689476B45DDBBED",
+    "sha256":  "5EC440E6FFBB2A9D992907C3C5ECF8A14F71CF1B4813649A47DA9234851F5BCF",
     "changelog":  "### VietTest v1.1.0 - Chuẩn hóa Khảo thí \u0026 Liên thông CSDL Sinh thái\n\n- Giao diện chuẩn hóa: Mở rộng full màn hình, Header \u0026 Footer cố định, chuẩn hóa phông chữ Segoe UI Variable.\n- Quản lý Thí sinh \u0026 Kỳ thi: Thêm checkbox chọn nhiều thí sinh để xóa/phân ca hàng loạt, bổ sung mô tả đợt thi chi tiết.\n- Cơ sở dữ liệu liên thông: Đồng bộ danh mục Học sinh, Kỳ thi, Năm học dùng chung với VietGrade và VietMix.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, nâng cấp mượt mà bảo toàn dữ liệu.",
     "isMandatory":  false
 }

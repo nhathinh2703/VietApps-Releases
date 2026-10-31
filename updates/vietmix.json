@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-01",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.1.0/VietMix_v1.1.0.zip",
-    "sha256":  "55DFBC53C59A449CA4DC437FB9495922D7051BF13F9F27838AEDA2763EAE043E",
+    "sha256":  "64B567C6EBD3628B922417186C3408EB65FA4952363CF57B2559A67C032AF1C9",
     "changelog":  "### VietMix v1.1.0 - Chuẩn hóa Giao diện \u0026 Liên thông CSDL Sinh thái\n\n- Giao diện đồng nhất: Full 100% chiều rộng, Header \u0026 Footer cố định, phông chữ Segoe UI Variable hiện đại.\n- Bảng dữ liệu \u0026 Thao tác: Nút thao tác chuẩn 28x28px, bổ sung checkbox chọn nhiều dòng để xử lý hàng loạt.\n- Cơ sở dữ liệu tập trung: Tích hợp Master Schema và cơ chế liên thông CSDL dùng chung trong hệ sinh thái VietApps.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, tối ưu hóa dung lượng tải về.",
     "isMandatory":  false
 }

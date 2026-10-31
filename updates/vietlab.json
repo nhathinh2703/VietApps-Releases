@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-01",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v1.1.0/VietLab_v1.1.0.zip",
-    "sha256":  "40DC2764C6742FDF642E600A014F4122425C1F7F3F76620E7B786C7134C95DE8",
+    "sha256":  "98AA950C413A6612D1D0862D902630CB3E55CA998CD78B8C1D85F52E63BA8315",
     "changelog":  "### VietLab v1.1.0 - Quản lý Phòng máy \u0026 Ổn định Mạng LAN\n\n- Giao diện chuẩn hóa: Đồng bộ Header/Footer cố định, phông Segoe UI Variable sắc nét cho Server và Client.\n- Ổn định kết nối: Tối ưu hóa luồng UDP Beacon và SignalR Hub, loại bỏ hiện tượng nhấp nháy màn hình giám sát.\n- Đồng bộ hệ sinh thái: Quản lý CSDL nhật ký và danh mục thiết bị theo chuẩn VietApps 2026.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime cho cả Server và Client.",
     "isMandatory":  false
 }

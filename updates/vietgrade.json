@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-01",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietgrade-v1.1.0/VietGrade_v1.1.0.zip",
-    "sha256":  "B50FDFDFFB572FDDA67EBFD599A44559D22D9D3BF384599D599F389FE153B97E",
+    "sha256":  "221B4F961AF61406608FB7FB991B41B30CD2CC6BB27F75222930924460E8BBE5",
     "changelog":  "### VietGrade v1.1.0 - Chấm thi OMR GDPT 2018 \u0026 Đồng bộ Sinh thái\n\n- Giao diện chuẩn hóa: Đồng bộ toàn diện layout, padding tinh gọn, nút thao tác chuẩn 28x28px.\n- Liên thông dữ liệu: Đọc trực tiếp danh sách thí sinh và kỳ thi từ VietTest mà không cần file trung gian.\n- Quy trình chấm chuẩn BGD: Tối ưu hóa 3 công đoạn CĐ0 - CĐ1 - CĐ2, xuất bảng điểm nhanh chóng.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, giảm 85% dung lượng tải.",
     "isMandatory":  false
 }
