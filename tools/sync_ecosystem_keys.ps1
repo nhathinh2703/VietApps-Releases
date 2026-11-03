@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
     Bảng điều khiển và tự động hóa mã hóa Key cho hệ sinh thái VietApps
 .DESCRIPTION
@@ -9,7 +9,12 @@
     - Tự động commit và push lên GitHub.
 #>
 
-$Host.UI.RawUI.WindowTitle = "VietApps Ecosystem - Unified Secrets Manager"
+param (
+    [switch]$AutoPush,
+    [switch]$SkipPush
+)
+
+try { $Host.UI.RawUI.WindowTitle = "VietApps Ecosystem - Unified Secrets Manager" } catch {}
 
 Write-Host ""
 Write-Host "==========================================================================" -ForegroundColor Cyan
@@ -192,13 +197,16 @@ if ($isWinRarEnabled -and -not [string]::IsNullOrWhiteSpace($winRarData)) {
 }
 
 # 4. ĐỒNG BỘ DANH MỤC GÓI PHẦN MỀM VIETLAB (PACKAGES.JSON)
+$masterPackages = Join-Path $vietlabDir "packages.json"
 $sourcePackages = "D:\GitHub\VietLab\templates\packages.json"
-$targetPackages = Join-Path $vietlabDir "packages.json"
-if (Test-Path $sourcePackages) {
-    Copy-Item $sourcePackages $targetPackages -Force
-    Write-Host " [4] Danh mục VietLab:   " -NoNewline -ForegroundColor White
-    Write-Host "[ĐÃ ĐỒNG BỘ] " -NoNewline -ForegroundColor Green
-    Write-Host "(25 phần mềm chuẩn FOSS, Freeware & System)" -ForegroundColor Gray
+if (Test-Path $masterPackages) {
+    if (Test-Path "D:\GitHub\VietLab\templates") {
+        Copy-Item $masterPackages $sourcePackages -Force
+        $pkgCount = (Get-Content $masterPackages -Raw -Encoding UTF8 | ConvertFrom-Json).Count
+        Write-Host " [4] Danh mục VietLab:   " -NoNewline -ForegroundColor White
+        Write-Host "[ĐÃ ĐỒNG BỘ SANG VIETLAB] " -NoNewline -ForegroundColor Green
+        Write-Host "($pkgCount phần mềm chuẩn FOSS, Freeware & System)" -ForegroundColor Gray
+    }
 }
 
 Write-Host "--------------------------------------------------------------------------" -ForegroundColor DarkGray
@@ -206,9 +214,20 @@ Write-Host "[THÔNG BÁO] Tất cả các tệp đều theo CHUẨN JSON MÃ HÓ
 Write-Host ""
 
 # 5. TỰ ĐỘNG COMMIT VÀ PUSH LÊN GITHUB
-Write-Host "Bạn có muốn đẩy (Push) các cập nhật này lên GitHub ngay bây giờ không? (Y/N): " -NoNewline -ForegroundColor Yellow
-$choice = Read-Host
-if ($null -eq $choice -or $choice.Trim().ToUpper() -eq "Y") {
+$shouldPush = $false
+if ($AutoPush) {
+    $shouldPush = $true
+} elseif ($SkipPush) {
+    $shouldPush = $false
+} else {
+    Write-Host "Bạn có muốn đẩy (Push) các cập nhật này lên GitHub ngay bây giờ không? (Y/N): " -NoNewline -ForegroundColor Yellow
+    $choice = Read-Host
+    if ($null -eq $choice -or $choice.Trim() -eq "" -or $choice.Trim().ToUpper() -eq "Y") {
+        $shouldPush = $true
+    }
+}
+
+if ($shouldPush) {
     Push-Location $repoRoot
     try {
         git add .gitignore updates/ai_config.json vietlab/

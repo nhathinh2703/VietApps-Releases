@@ -101,7 +101,8 @@ foreach ($file in $files) {
 if ($manifest -and $updatedPackages.Count -gt 0) {
     Write-Host "Đang cập nhật tệp manifest: $manifestPath..." -ForegroundColor Yellow
     $newJson = $manifest | ConvertTo-Json -Depth 10
-    [System.IO.File]::WriteAllText($manifestPath, $newJson, [System.Text.Encoding]::UTF8)
+    $utf8NoBom = [System.Text.UTF8Encoding]::new($false)
+    [System.IO.File]::WriteAllText($manifestPath, $newJson, $utf8NoBom)
 
     Push-Location $rootDir
     try {
