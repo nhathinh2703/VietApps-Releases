@@ -8,3 +8,12 @@ private_keys.json
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Thư mục chứa tạm các file cài đặt trước khi tự động đẩy lên GitHub Releases
+binaries_staging/
+*.exe
+*.msi
+*.iso
+*.zip
+*.rar
+*.7z

@@ -2,7 +2,7 @@
   "notifications": [
     {
       "id": "notif-20261101-vietapps-v110",
-      "title": "🎉 Phát hành chính thức Hệ sinh thái VietApps v1.1.0",
+      "title": "Phát hành chính thức Hệ sinh thái VietApps v1.1.0",
       "content": "Phiên bản v1.1.0 nâng cấp toàn diện cả 4 ứng dụng (VietMix, VietTest, VietGrade, VietLab): Chuẩn hóa giao diện full chiều rộng, thống nhất phông chữ Segoe UI Variable sắc nét, tối ưu bộ cài siêu nhẹ với cơ chế cài ngầm .NET 10, quản lý CSDL tập trung và liên thông dữ liệu chéo giữa các ứng dụng.",
       "date": "2026-11-01",
       "type": "update",
