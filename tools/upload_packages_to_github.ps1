@@ -1,4 +1,4 @@
-# PowerShell Script: Tự động tải các file cài đặt từ binaries_staging lên GitHub Releases
+﻿# PowerShell Script: Tự động tải các file cài đặt từ binaries_staging lên GitHub Releases
 # và tự động cập nhật direct link vào vietlab/packages.json
 
 param (

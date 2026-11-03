@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Bảng điều khiển và tự động hóa mã hóa Key cho hệ sinh thái VietApps
 .DESCRIPTION
