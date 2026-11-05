@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-06",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.1.0/VietTest_v1.1.0.zip",
-    "sha256":  "A00C1D46B0D1DACB846C18B3B298991DD0817F029DED15028CC6B800EDA828CB",
+    "sha256":  "8531B7C87296FD16E706ED10F629A14F6CDF20AD69C429DCD7E34381278354B7",
     "changelog":  "### VietTest v1.1.0 - Bản phát hành chính thức nâng cấp toàn diện\n\n- Nộp bài thi 1-Request siêu tốc: Gói gọn toàn bộ câu trả lời, chữ ký điện tử và thời gian làm bài vào một request duy nhất (~100ms), loại bỏ hoàn toàn tình trạng trễ mạng và cảnh báo nộp bài gián đoạn.\n- Chụp ảnh bài tự luận thông minh: Tự động phát hiện IP mạng LAN, nén ảnh nét và nhẹ, chống gửi ảnh trùng lặp, giữ modal QR trên máy thí sinh để chụp liên tục nhiều trang. Bổ sung chế độ Danh sách (Roster Mode) trên điện thoại giúp giáo viên chụp bài cả phòng thi cực nhanh.\n- Danh mục Cán bộ \u0026 Giám khảo: Quản lý tập trung danh sách cán bộ, giám khảo và mẫu chữ ký điện tử; dễ dàng truy xuất và chọn nhanh cho từng môn thi, ca thi.\n- Phiếu bài thi \u0026 Biên bản chuẩn hóa: Giao diện xem bài làm trực quan, phân biệt rõ ràng câu chọn của thí sinh và đáp án chuẩn. Chuẩn hóa thể thức Biên bản coi thi, Bàn giao bài thi và Bảng tổng hợp điểm.\n- Quy trình Chấm tự luận bảo mật: Hiển thị trạng thái \"Đang chấm\" cho phần tự luận trên máy thí sinh, chỉ công bố điểm sau khi Giám khảo đã duyệt.\n- Tối ưu hóa nhận dạng đề thi: Chuẩn hóa bóc tách các dạng câu hỏi, đáp án thứ tự dạng mũi tên và khối nội dung đề thi GDPT 2018.",
     "isMandatory":  false
 }
