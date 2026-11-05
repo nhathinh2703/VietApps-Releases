@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-05",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.1.0/VietTest_v1.1.0.zip",
-    "sha256":  "FF9870ED2F896DB749BF564573CF4FBCED3C6C028C68203389C274A5A0717B7A",
+    "sha256":  "C8B3D6DA7B9A44CE5164DFA27CDC59926033A54910C6FA7BF6ACD1AAE4D3A261",
     "changelog":  "### VietTest v1.1.0 - Tối ưu hóa Quản lý Kỳ thi, Ca thi \u0026 Trải nghiệm Chấm thi AI\n\n- Quản lý Kỳ thi \u0026 Ca thi: Chuẩn hóa giao diện 2 cột trực quan (Cột trái: Danh sách kỳ thi; Cột phải: 4 khối thông tin kỳ thi, môn thi, chi tiết môn thi và ca thi).\n- Chia ca thi linh hoạt: Cho phép giáo viên tự điều chỉnh thời gian nghỉ giữa các ca thi theo nhu cầu phòng máy.\n- Chuyển ca thi thông minh: Nút chuyển ca thi hiển thị số lượng thí sinh chưa thi ngay trên nhãn nút, hỗ trợ chuyển ca bù giờ nhanh chóng.\n- Chấm thi AI linh hoạt: Cho phép giáo viên tinh chỉnh cấu hình chấm và thực hiện chấm lại nhiều lần với bài làm tự luận của học sinh.\n- Xuất Excel chuẩn giáo dục: Toàn bộ bảng xuất Excel áp dụng thống nhất phông chữ Times New Roman, bố cục rõ ràng, tách dòng thời gian thi và ghi chú chuẩn mực.\n- Đồng bộ hệ thống: Tự động ghi nhớ niên khóa làm việc gần nhất, khắc phục lỗi sai năm học mặc định khi mở ứng dụng.",
     "isMandatory":  false
 }
