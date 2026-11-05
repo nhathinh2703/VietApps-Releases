@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "1.1.0",
+    "version":  "1.2.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-11-01",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.1.0/VietTest_v1.1.0.zip",
-    "sha256":  "F99927BBA328472D0908B2AAAADEF714455A8553EB572680BB6389D84CEC6601",
-    "changelog":  "### VietTest v1.1.0 - Chuẩn hóa Khảo thí \u0026 Liên thông CSDL Sinh thái\n\n- Giao diện chuẩn hóa: Mở rộng full màn hình, Header \u0026 Footer cố định, chuẩn hóa phông chữ Segoe UI Variable.\n- Quản lý Thí sinh \u0026 Kỳ thi: Thêm checkbox chọn nhiều thí sinh để xóa/phân ca hàng loạt, bổ sung mô tả đợt thi chi tiết.\n- Cơ sở dữ liệu liên thông: Đồng bộ danh mục Học sinh, Kỳ thi, Năm học dùng chung với VietGrade và VietMix.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, nâng cấp mượt mà bảo toàn dữ liệu.",
+    "releaseDate":  "2026-11-05",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v1.2.0/VietTest_v1.2.0.zip",
+    "sha256":  "DDE6F0A256125BD0A50BF8CAF14E2FA3CFC7E3A6C4748C8B6B91AFC3C9BB18B3",
+    "changelog":  "### VietTest v1.2.0 - Tối ưu hóa Quản lý Kỳ thi, Ca thi \u0026 Trải nghiệm Chấm thi AI\r\n\r\n- Quản lý Kỳ thi \u0026 Ca thi: Chuẩn hóa giao diện 2 cột song song (Cột trái: Kỳ thi; Cột phải: 4 khối thông tin kỳ thi, môn thi, chi tiết môn thi và ca thi).\r\n- Chuyển ca thi thông minh: Nút chuyển ca thi hiển thị trực tiếp số lượng thí sinh chưa thi ngay trên nhãn nút, hỗ trợ điều phối ca thi nhanh chóng.\r\n- Chấm thi AI linh hoạt: Cho phép giáo viên tinh chỉnh cấu hình chấm và thực hiện chấm lại nhiều lần với bài làm tự luận của học sinh.\r\n- Khởi động \u0026 Niên khóa: Khắc phục lỗi chọn nhầm năm học mặc định, tự động ghi nhớ năm làm việc gần nhất, đồng bộ CSDL SQLite và file cài đặt.\r\n- Xuất danh sách Excel: Chuẩn hóa thông tin ca thi, tách dòng thời gian làm bài và dòng lưu ý thí sinh xuống 2 hàng riêng biệt, rõ ràng và trang nhã.",
     "isMandatory":  false
 }
