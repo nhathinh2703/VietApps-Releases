@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "2.0.1",
+    "version":  "2.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-06",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v2.0.1/VietTest_v2.0.1.zip",
-    "sha256":  "173AB9472CA07F6641F8524CE41D8368BBF9BF0D2431F489F8C1562D2CF673D5",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v2.0.2/VietTest_v2.0.2.zip",
+    "sha256":  "4FE88F782867DD2B6C82FD4A49DBBF4A35206E7460CA5AF6D85437C8E4369C84",
     "changelog":  "### VietTest v2.0.0 - Bản phát hành chính thức nâng cấp toàn diện\n\n- Cảnh báo lỗi định dạng đề thi thông minh: Tự động phát hiện và cảnh báo chi tiết các lỗi nhận dạng khi nạp đề Word (thiếu đáp án đúng, câu hỏi thiếu phương án, câu trả lời ngắn chưa có đáp án), tương tự VietMix. Cho phép giáo viên click chọn nhanh đáp án đúng trực tiếp trên giao diện xem trước đề.\n- Bộ hồ sơ thi cử chuẩn thể thức hành chính: Chuẩn hóa toàn bộ Biên bản coi thi, Danh sách thu bài và Phiếu bài thi theo quy định văn bản nhà nước (khổ giấy A4, phông chữ Times New Roman, viền bảng và khoảng cách tối ưu).\n- Xử lý chữ ký điện tử chuẩn hóa: Phân biệt chính xác giữa thí sinh vắng thi (ký hiệu \u0027x\u0027), thí sinh nộp bài có ký điện tử (hiển thị chữ ký thực sự) và thí sinh nộp bài không ký (ghi nhận \u0027Đã ký\u0027).\n- Xuất trọn bộ hồ sơ thi cử tích hợp: Gom toàn bộ biên bản, phiếu bài thi và danh sách ca thi tổng hợp vào một gói duy nhất, đặt tên file khoa học, chuẩn hóa phục vụ lưu trữ lâu dài.\n- Tối ưu hóa nạp và quản lý dữ liệu: Tự động lưu cấu hình phòng thi mạng LAN và thông tin đơn vị tổ chức, loại bỏ các thao tác thừa.\n- Nộp bài thi 1-Request siêu tốc \u0026 Chấm thi tự luận: Đảm bảo độ trễ tối thiểu khi học sinh nộp bài thi đồng thời trên mạng LAN phòng máy.",
     "isMandatory":  false
 }
