@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "2.0.3",
+    "version":  "2.0.4",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-07",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v2.0.3/VietTest_v2.0.3.zip",
-    "sha256":  "A75E950C515120EA39E6F6A5D305A89FBD6049242AA218D6365400B5A106939B",
-    "changelog":  "### VietTest v2.0.3 - Nâng cấp chấm lại đề thi, đồng bộ đáp án \u0026 tối ưu trải nghiệm\n\n- Đồng bộ \u0026 chấm lại đáp án chính xác: Cho phép điều chỉnh đáp án đúng trực tiếp trên đề thi, tự động đồng bộ sang tất cả ca thi và CSDL SQLite; thuật toán chấm so khớp đa tiêu chí (theo ID, nhãn chuẩn hóa và nội dung); tự động cập nhật hiển thị đáp án mới khi xem bài làm học sinh.\n- Hiển thị tiến trình chấm bài trực quan: Theo dõi tiến độ chấm thi thời gian thực (VD: Đang chấm 12/35 bài...), tích hợp thông báo hoàn tất bằng Shared Toast/Dialog thân thiện.\n- Tối ưu quản lý ca thi \u0026 làm mới dữ liệu: Thêm nút \"Làm mới (F5)\" nhanh tại giao diện Chấm thi \u0026 Báo cáo; tinh gọn nút chuyển ca thí sinh; dropdown ca thi hiển thị trạng thái thực tế rõ ràng.\n- Chuẩn hóa cấu hình chữ ký CBCT \u0026 Giám khảo: Mở rộng hỗ trợ tối đa 3 CBCT và 3 GK mỗi ca thi; rút gọn nhãn hiển thị và chuẩn hóa kích thước chữ tối thiểu 12px (text-xs) theo design system.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v2.0.4/VietTest_v2.0.4.zip",
+    "sha256":  "B9153007E79C1B4750F0C738FEA8BDA0EE2B5666D799E3D0492A5F3B08006914",
+    "changelog":  "### VietTest v2.0.4 - Nâng cấp chấm lại đề thi, đồng bộ đáp án \u0026 tối ưu trải nghiệm\n\n- Đồng bộ \u0026 chấm lại đáp án chính xác: Cho phép điều chỉnh đáp án đúng trực tiếp trên đề thi, tự động đồng bộ sang tất cả ca thi và CSDL SQLite; thuật toán chấm so khớp đa tiêu chí (theo ID, nhãn chuẩn hóa và nội dung); tự động cập nhật hiển thị đáp án mới khi xem bài làm học sinh.\n- Hiển thị tiến trình chấm bài trực quan: Theo dõi tiến độ chấm thi thời gian thực (VD: Đang chấm 12/35 bài...), tích hợp thông báo hoàn tất bằng Shared Toast/Dialog thân thiện.\n- Tối ưu quản lý ca thi \u0026 làm mới dữ liệu: Thêm nút \"Làm mới (F5)\" nhanh tại giao diện Chấm thi \u0026 Báo cáo; tinh gọn nút chuyển ca thí sinh; dropdown ca thi hiển thị trạng thái thực tế rõ ràng.\n- Chuẩn hóa cấu hình chữ ký CBCT \u0026 Giám khảo: Mở rộng hỗ trợ tối đa 3 CBCT và 3 GK mỗi ca thi; rút gọn nhãn hiển thị và chuẩn hóa kích thước chữ tối thiểu 12px (text-xs) theo design system.",
     "isMandatory":  false
 }
