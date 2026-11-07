@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "2.0.2",
+    "version":  "2.0.3",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-11-06",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v2.0.2/VietTest_v2.0.2.zip",
-    "sha256":  "4FE88F782867DD2B6C82FD4A49DBBF4A35206E7460CA5AF6D85437C8E4369C84",
-    "changelog":  "### VietTest v2.0.0 - Bản phát hành chính thức nâng cấp toàn diện\n\n- Cảnh báo lỗi định dạng đề thi thông minh: Tự động phát hiện và cảnh báo chi tiết các lỗi nhận dạng khi nạp đề Word (thiếu đáp án đúng, câu hỏi thiếu phương án, câu trả lời ngắn chưa có đáp án), tương tự VietMix. Cho phép giáo viên click chọn nhanh đáp án đúng trực tiếp trên giao diện xem trước đề.\n- Bộ hồ sơ thi cử chuẩn thể thức hành chính: Chuẩn hóa toàn bộ Biên bản coi thi, Danh sách thu bài và Phiếu bài thi theo quy định văn bản nhà nước (khổ giấy A4, phông chữ Times New Roman, viền bảng và khoảng cách tối ưu).\n- Xử lý chữ ký điện tử chuẩn hóa: Phân biệt chính xác giữa thí sinh vắng thi (ký hiệu \u0027x\u0027), thí sinh nộp bài có ký điện tử (hiển thị chữ ký thực sự) và thí sinh nộp bài không ký (ghi nhận \u0027Đã ký\u0027).\n- Xuất trọn bộ hồ sơ thi cử tích hợp: Gom toàn bộ biên bản, phiếu bài thi và danh sách ca thi tổng hợp vào một gói duy nhất, đặt tên file khoa học, chuẩn hóa phục vụ lưu trữ lâu dài.\n- Tối ưu hóa nạp và quản lý dữ liệu: Tự động lưu cấu hình phòng thi mạng LAN và thông tin đơn vị tổ chức, loại bỏ các thao tác thừa.\n- Nộp bài thi 1-Request siêu tốc \u0026 Chấm thi tự luận: Đảm bảo độ trễ tối thiểu khi học sinh nộp bài thi đồng thời trên mạng LAN phòng máy.",
+    "releaseDate":  "2026-11-07",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v2.0.3/VietTest_v2.0.3.zip",
+    "sha256":  "A75E950C515120EA39E6F6A5D305A89FBD6049242AA218D6365400B5A106939B",
+    "changelog":  "### VietTest v2.0.3 - Nâng cấp chấm lại đề thi, đồng bộ đáp án \u0026 tối ưu trải nghiệm\n\n- Đồng bộ \u0026 chấm lại đáp án chính xác: Cho phép điều chỉnh đáp án đúng trực tiếp trên đề thi, tự động đồng bộ sang tất cả ca thi và CSDL SQLite; thuật toán chấm so khớp đa tiêu chí (theo ID, nhãn chuẩn hóa và nội dung); tự động cập nhật hiển thị đáp án mới khi xem bài làm học sinh.\n- Hiển thị tiến trình chấm bài trực quan: Theo dõi tiến độ chấm thi thời gian thực (VD: Đang chấm 12/35 bài...), tích hợp thông báo hoàn tất bằng Shared Toast/Dialog thân thiện.\n- Tối ưu quản lý ca thi \u0026 làm mới dữ liệu: Thêm nút \"Làm mới (F5)\" nhanh tại giao diện Chấm thi \u0026 Báo cáo; tinh gọn nút chuyển ca thí sinh; dropdown ca thi hiển thị trạng thái thực tế rõ ràng.\n- Chuẩn hóa cấu hình chữ ký CBCT \u0026 Giám khảo: Mở rộng hỗ trợ tối đa 3 CBCT và 3 GK mỗi ca thi; rút gọn nhãn hiển thị và chuẩn hóa kích thước chữ tối thiểu 12px (text-xs) theo design system.",
     "isMandatory":  false
 }
