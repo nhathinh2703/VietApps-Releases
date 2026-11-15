@@ -245,8 +245,8 @@
         "Category":  "Lập trình",
         "Description":  "Môi trường phát triển C/C++ mạnh mẽ kèm MinGW cho học sinh thi HSG",
         "IconClass":  "fa-solid fa-cubes text-emerald-600",
-        "FileName":  "codeblocks-20.03mingw-setup.exe",
-        "DownloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/packages-v1.0/codeblocks-20.03mingw-setup.exe",
+        "FileName":  "codeblocks-25.03mingw-setup.exe",
+        "DownloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/packages-v1.0/codeblocks-25.03mingw-setup.exe",
         "SilentArguments":  "/S",
         "RunAsAdmin":  true,
         "IsOpenSource":  true,
@@ -343,19 +343,7 @@
         "IsOpenSource":  true,
         "Group":  "Nguồn mở"
     },
-    {
-        "Id":  "klite",
-        "Name":  "K-Lite Codec Pack",
-        "Category":  "Đồ họa",
-        "Description":  "Bộ giải mã đa phương tiện giúp mở mọi video bài học, bài giảng và âm thanh (MP4, MKV, AVI, FLV...)",
-        "IconClass":  "fa-solid fa-film text-indigo-600",
-        "FileName":  "K-Lite_Codec_Pack_Basic.exe",
-        "DownloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/packages-v1.0/K-Lite_Codec_Pack_Basic.exe",
-        "SilentArguments":  "/verysilent /norestart",
-        "RunAsAdmin":  true,
-        "IsOpenSource":  false,
-        "Group":  "Tự do"
-    },
+
     {
         "Id":  "videopad",
         "Name":  "VideoPad Video Editor",
