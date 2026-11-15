@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "3.0.0",
+    "version":  "3.0.1",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.0/VietLab_v3.0.0.zip",
-    "sha256":  "51E752B905DC51EA93F966C564574CE8E0D46E816FB8F37A58B81F45222A2B7E",
-    "changelog":  "### VietLab v3.0.0 - Quản trị \u0026 Giám sát phòng máy LAN\n\n- Giám sát màn hình máy trạm thời gian thực, điều khiển từ xa mượt mà.\n- Trình chiếu màn hình giáo viên tự thích ứng theo băng thông mạng.\n- Tự động phát hiện đa card mạng LAN, phát sóng UDP Beacon ổn định.\n- Đồng bộ danh mục thiết bị và nhật ký hệ sinh thái VietApps.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.1/VietLab_v3.0.1.zip",
+    "sha256":  "96B81E8C382C1594DEA1977EBB0AA477C3D7B8AF4142B4FF62BA1DF33F80635A",
+    "changelog":  "### VietLab v3.0.1 - Nâng cấp Trình chiếu, Thông báo Máy con \u0026 Bảo mật Bền vững\n\n- **Khắc phục lỗi đệ quy màn hình**: Triệt tiêu hoàn toàn hiệu ứng gương vô tận khi giáo viên chọn trình chiếu bài mẫu của học sinh cho cả phòng máy.\n- **Thông báo tác động nhẹ nhàng (Toast Tray)**: Máy con tự động hiển thị thông báo góc màn hình khi máy chủ cài phần mềm, phát tài liệu, dọn dẹp hoặc kích hoạt chính sách.\n- **Menu Trình chiếu tinh gọn**: Đổi tên các mục rõ ràng (Tùy chọn chiếu, Chiếu toàn màn hình, Chiếu máy chủ, Chiếu cho cả phòng).\n- **Chuẩn hóa giao diện Phát \u0026 Thu tệp**: Khắc phục khoảng cách dính viền của khung trống và bảng Đánh giá rủi ro, in đậm toàn bộ tiêu đề card chuẩn Shared.\n- **Tối ưu danh sách Tin nhắn**: Hiển thị Tên người dùng trước, tên máy sau trên cùng 1 hàng duy nhất gọn gàng.\n- **Bảo mật bền vững qua khởi động lại**: Chính sách chặn file .exe lạ và khóa Task Manager được lưu vào cấu hình máy con, tự động kích hoạt bảo vệ ngay khi Windows khởi động.",
     "isMandatory":  false
 }
