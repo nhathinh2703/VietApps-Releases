@@ -124,9 +124,9 @@
     },
     {
         "Id":  "fmslogo",
-        "Name":  "MSWLogo / FMSLogo",
+        "Name":  "FMSLogo",
         "Category":  "Giáo dục",
-        "Description":  "Môi trường lập trình Rùa vẽ hình học cho học sinh Tiểu học và THCS",
+        "Description":  "Môi trường lập trình Rùa vẽ hình học cho học sinh Tiểu học và THCS (Kế thừa MSWLogo)",
         "IconClass":  "fa-solid fa-draw-polygon text-teal-600",
         "FileName":  "fmslogo-8.5.0.exe",
         "DownloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/packages-v1.0/fmslogo-8.5.0.exe",
