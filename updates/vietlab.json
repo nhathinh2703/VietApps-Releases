@@ -5,7 +5,7 @@
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-16",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.0/VietLab_v3.0.0.zip",
-    "sha256":  "0FCF36AB4A97D5E93F70CFAE2B55DCC75B14584100ED0FCBDA87F4206697B2CB",
+    "sha256":  "1B053B504BCAB3160CBB1022538A0772E5827FF6D52E1B6E02FCB96AD7174A4C",
     "changelog":  "### VietLab v3.0.0 - Quản trị \u0026 Giám sát phòng máy LAN\n\n- Giám sát màn hình máy trạm thời gian thực, điều khiển từ xa mượt mà.\n- Trình chiếu màn hình giáo viên tự thích ứng theo băng thông mạng.\n- Tự động phát hiện đa card mạng LAN, phát sóng UDP Beacon ổn định.\n- Đồng bộ danh mục thiết bị và nhật ký hệ sinh thái VietApps.",
     "isMandatory":  false
 }
