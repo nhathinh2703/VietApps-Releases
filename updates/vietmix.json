@@ -1,11 +1,11 @@
 {
     "appId":  "VietMix",
     "appName":  "VietMix",
-    "version":  "1.1.0",
+    "version":  "3.0.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-11-01",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v1.1.0/VietMix_v1.1.0.zip",
-    "sha256":  "E7C97A6CF4C4404D06AE250E9508A667E4D3CD48B96636E5A965D5036EE2E2BB",
-    "changelog":  "### VietMix v1.1.0 - Chuẩn hóa Giao diện \u0026 Liên thông CSDL Sinh thái\n\n- Giao diện đồng nhất: Full 100% chiều rộng, Header \u0026 Footer cố định, phông chữ Segoe UI Variable hiện đại.\n- Bảng dữ liệu \u0026 Thao tác: Nút thao tác chuẩn 28x28px, bổ sung checkbox chọn nhiều dòng để xử lý hàng loạt.\n- Cơ sở dữ liệu tập trung: Tích hợp Master Schema và cơ chế liên thông CSDL dùng chung trong hệ sinh thái VietApps.\n- Bộ cài siêu nhẹ: Tự động cài đặt ngầm .NET 10 Runtime, tối ưu hóa dung lượng tải về.",
+    "releaseDate":  "2026-11-15",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v3.0.0/VietMix_v3.0.0.zip",
+    "sha256":  "CF7C485D78B4702E219A83DA4CB15EE4212FC1C47071885F21303E11B4A3E37E",
+    "changelog":  "### VietMix v3.0.0 - Trộn đề thi GDPT 2018\n\n- Chuẩn hóa cấu trúc đề thi trắc nghiệm GDPT 2018 (Phần I, II, III).\n- Bảo toàn trọn vẹn công thức Toán (OMML, MathType) và hình ảnh.\n- Xuất đề thi và phiếu trả lời chuẩn xác sang Word và Excel.\n- Giao diện chuẩn hóa, đồng bộ CSDL hệ sinh thái VietApps.",
     "isMandatory":  false
 }
