@@ -370,19 +370,5 @@
         "IsOpenSource":  false,
         "Group":  "Tự do",
         "Note":  "Dựng phim hoạt hình 3D: Học sinh chọn bối cảnh 3D có sẵn, tạo hình nhân vật, soạn kịch bản hội thoại để máy đọc hoặc tự thu âm lồng tiếng trực tiếp, biểu cảm cử chỉ và điều khiển góc quay máy ảnh. Chạy trực tiếp trên Windows, rất nhẹ, không cần cài giả lập Android."
-    },
-    {
-        "Id":  "wickeditor",
-        "Name":  "Wick Editor",
-        "Category":  "Giáo dục",
-        "Description":  "Thiết kế phim hoạt hình 2D và đồ họa chuyển động mã nguồn mở (Chuyên đề 2 Tin học 11)",
-        "IconClass":  "fa-solid fa-wand-magic-sparkles text-amber-500",
-        "FileName":  "Windows_Wick.Editor.Setup.1.19.0.exe",
-        "DownloadUrl":  "https://github.com/Wicklets/wick-editor/releases/download/1.19.0/Windows_Wick.Editor.Setup.1.19.0.exe",
-        "SilentArguments":  "/S",
-        "RunAsAdmin":  true,
-        "IsOpenSource":  true,
-        "Group":  "Nguồn mở",
-        "Note":  "Thiết kế hoạt hình 2D mã nguồn mở: Học sinh tự vẽ nhân vật, thiết kế bối cảnh, tạo chuyển động theo dòng thời gian (Timeline) và từng khung hình (Frame-by-frame) hoặc biến đổi (Tweening), chèn âm thanh lồng tiếng và xuất video MP4/GIF. Siêu nhẹ, chạy mượt trên mọi máy tính phòng máy."
     }
 ]
