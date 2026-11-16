@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "3.0.2",
+    "version":  "3.0.3",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.2/VietLab_v3.0.2.zip",
-    "sha256":  "E0FB3DDADDB3BF458291F386B79A54247F7B4877B081F072F90C6FD94F6A24B8",
-    "changelog":  "### VietLab v3.0.1 - Nâng cấp Trình chiếu, Xóa Lịch sử Web \u0026 Bảo mật Bền vững\n\n- **Khắc phục lỗi đệ quy màn hình**: Triệt tiêu hoàn toàn hiệu ứng gương vô tận khi giáo viên chọn trình chiếu bài mẫu của học sinh cho cả phòng máy.\n- **Xóa lịch sử duyệt web Edge \u0026 Chrome**: Phát lệnh từ máy chủ đóng trình duyệt và xóa sạch lịch sử truy cập web, URL đã xem và bộ nhớ đệm cache của Edge \u0026 Chrome trên máy trạm.\n- **Thông báo tác động nhẹ nhàng (Toast Tray)**: Máy con tự động hiển thị thông báo góc màn hình khi máy chủ cài phần mềm, phát tài liệu, dọn dẹp hoặc kích hoạt chính sách.\n- **Menu Trình chiếu tinh gọn**: Đổi tên các mục rõ ràng (Tùy chọn chiếu, Chiếu toàn màn hình, Chiếu máy chủ, Chiếu cho cả phòng).\n- **Chuẩn hóa giao diện Phát \u0026 Thu tệp**: Khắc phục khoảng cách dính viền của khung trống và bảng Đánh giá rủi ro, in đậm toàn bộ tiêu đề card chuẩn Shared.\n- **Tối ưu danh sách Tin nhắn**: Hiển thị Tên người dùng trước, tên máy sau trên cùng 1 hàng duy nhất gọn gàng.\n- **Bảo mật bền vững qua khởi động lại**: Chính sách chặn file .exe lạ và khóa Task Manager được lưu vào cấu hình máy con, tự động kích hoạt bảo vệ ngay khi Windows khởi động.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.3/VietLab_v3.0.3.zip",
+    "sha256":  "2E4CDECB8F83F1E2F9C5795342872038FCC7C0494BA50D961A3C6CBEF1F69FEB",
+    "changelog":  "### VietLab v3.0.3 - Tối ưu Tiện ích, Bảo vệ Gói Cài đặt \u0026 Chuẩn hóa Desktop\n\n- **Mở rộng Trung tâm tiện ích**: Tăng kích thước chiều rộng lên 820px giúp hiển thị thông thoáng, trực quan 100% các tính năng vận hành phòng máy.\n- **Bảo vệ toàn vẹn kho Packages \u0026 Tài liệu**: Hệ thống tự động bảo vệ tuyệt đối thư mục Packages/ (chứa các bộ cài phần mềm tải về), Submissions/ và tài liệu khi nâng cấp trực tuyến.\n- **Chuẩn hóa nút Chế độ xem**: Sửa triệt để lỗi nền trắng tràn viền ngoài của switch chế độ xem trên thanh card header.\n- **Mặc định kích thước card 220px**: Đưa kích thước thumbnail máy con về chuẩn 220px tối ưu không gian và ghi nhớ cấu hình khi người dùng điều chỉnh.\n- **Nâng cấp Modal Tùy chỉnh Desktop**: Chuẩn hóa chính xác mã lệnh đổi cỡ biểu tượng Windows Explorer (Large 96px, Medium 48px, Small 32px), thiết kế lại giao diện theo phong cách Vibrant Orange chuẩn VietApps.\n- **Tối ưu hiển thị tên người dùng**: Điều chỉnh cỡ chữ thanh thoát và bổ sung khoảng đệm an toàn, bảo đảm các chữ tiếng Việt có dấu nặng hiển thị trọn vẹn, không bị cấn viền.",
     "isMandatory":  false
 }
