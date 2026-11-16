@@ -3,9 +3,9 @@
     "appName":  "VietMix",
     "version":  "3.0.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-11-15",
+    "releaseDate":  "2026-11-16",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietmix-v3.0.0/VietMix_v3.0.0.zip",
-    "sha256":  "CF7C485D78B4702E219A83DA4CB15EE4212FC1C47071885F21303E11B4A3E37E",
+    "sha256":  "23CB88BB565A2BC40923D4487B67D6473CD8E452E853E280C17FA4D5B8E626B0",
     "changelog":  "### VietMix v3.0.0 - Trộn đề thi GDPT 2018\n\n- Chuẩn hóa cấu trúc đề thi trắc nghiệm GDPT 2018 (Phần I, II, III).\n- Bảo toàn trọn vẹn công thức Toán (OMML, MathType) và hình ảnh.\n- Xuất đề thi và phiếu trả lời chuẩn xác sang Word và Excel.\n- Giao diện chuẩn hóa, đồng bộ CSDL hệ sinh thái VietApps.",
     "isMandatory":  false
 }
