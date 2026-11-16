@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "3.0.3",
+    "version":  "3.0.4",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.3/VietLab_v3.0.3.zip",
-    "sha256":  "2E4CDECB8F83F1E2F9C5795342872038FCC7C0494BA50D961A3C6CBEF1F69FEB",
-    "changelog":  "### VietLab v3.0.3 - Tối ưu Tiện ích, Bảo vệ Gói Cài đặt \u0026 Chuẩn hóa Desktop\n\n- **Mở rộng Trung tâm tiện ích**: Tăng kích thước chiều rộng lên 820px giúp hiển thị thông thoáng, trực quan 100% các tính năng vận hành phòng máy.\n- **Bảo vệ toàn vẹn kho Packages \u0026 Tài liệu**: Hệ thống tự động bảo vệ tuyệt đối thư mục Packages/ (chứa các bộ cài phần mềm tải về), Submissions/ và tài liệu khi nâng cấp trực tuyến.\n- **Chuẩn hóa nút Chế độ xem**: Sửa triệt để lỗi nền trắng tràn viền ngoài của switch chế độ xem trên thanh card header.\n- **Mặc định kích thước card 220px**: Đưa kích thước thumbnail máy con về chuẩn 220px tối ưu không gian và ghi nhớ cấu hình khi người dùng điều chỉnh.\n- **Nâng cấp Modal Tùy chỉnh Desktop**: Chuẩn hóa chính xác mã lệnh đổi cỡ biểu tượng Windows Explorer (Large 96px, Medium 48px, Small 32px), thiết kế lại giao diện theo phong cách Vibrant Orange chuẩn VietApps.\n- **Tối ưu hiển thị tên người dùng**: Điều chỉnh cỡ chữ thanh thoát và bổ sung khoảng đệm an toàn, bảo đảm các chữ tiếng Việt có dấu nặng hiển thị trọn vẹn, không bị cấn viền.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.4/VietLab_v3.0.4.zip",
+    "sha256":  "18AB5390F786F9E6701A84042504D5062F53E7A834CE0CEEB72CC41B3344E234",
+    "changelog":  "### VietLab v3.0.4 - Tối ưu Menu Tiện ích, Khắc phục Tải Gói Cài đặt \u0026 Tự động Nâng cấp Client\n\n- **Tái cấu trúc Trung tâm Tiện ích**: Đổi tên nút thanh công cụ thành \"Tiện ích\" tinh gọn; hoán đổi vị trí khối \"Tài liệu \u0026 Vận hành\" sang cột chính và \"Giao diện \u0026 Màn hình\" sang cột tối ưu; chuyển mục \"Mở nhanh web \u0026 ứng dụng\" vào nhóm \"Tương tác \u0026 Lớp học\".\n- **Khắc phục triệt để lỗi Access Denied khi tải phần mềm**: Tự động kiểm tra quyền ghi thực tế của thư mục lưu trữ và chuyển hướng thông minh sang LocalAppData an toàn khi ứng dụng được cài đặt tại ổ C:\\Program Files, giúp tải và lưu trữ bộ cài phần mềm trơn tru không bị chặn.\n- **Chuẩn hóa nhận dạng Windows 11 Pro**: Tối ưu thuật toán đọc thông tin hệ điều hành từ Registry (EditionID, CompositionEditionID, DisplayVersion) và chuẩn hóa đồng bộ nhận dạng Windows 11 Pro trên 100% máy trạm trong phòng máy.\n- **Nâng cấp ngầm Client tự động \u0026 an toàn**: Luôn luôn biên dịch bộ cài đặt Inno Setup Client (VietLab_Client_Setup.exe) đóng gói sẵn vào Server, sửa lỗi nhận nhầm file và hỗ trợ cơ chế ghi đè an toàn khi máy trạm cập nhật phiên bản mới.\n- **Đồng bộ phiên bản Client \u0026 Server v3.0.4**: Đảm bảo quy trình phát lệnh nâng cấp ngầm từ xa chạy mượt mà, máy con tự động nhận diện và cập nhật thành công lên v3.0.4.",
     "isMandatory":  false
 }
