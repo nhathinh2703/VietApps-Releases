@@ -1,11 +1,11 @@
 {
     "appId":  "VietLab",
     "appName":  "VietLab",
-    "version":  "3.0.4",
+    "version":  "3.0.5",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.4/VietLab_v3.0.4.zip",
-    "sha256":  "18AB5390F786F9E6701A84042504D5062F53E7A834CE0CEEB72CC41B3344E234",
-    "changelog":  "### VietLab v3.0.4 - Tối ưu Menu Tiện ích, Khắc phục Tải Gói Cài đặt \u0026 Tự động Nâng cấp Client\n\n- **Tái cấu trúc Trung tâm Tiện ích**: Đổi tên nút thanh công cụ thành \"Tiện ích\" tinh gọn; hoán đổi vị trí khối \"Tài liệu \u0026 Vận hành\" sang cột chính và \"Giao diện \u0026 Màn hình\" sang cột tối ưu; chuyển mục \"Mở nhanh web \u0026 ứng dụng\" vào nhóm \"Tương tác \u0026 Lớp học\".\n- **Khắc phục triệt để lỗi Access Denied khi tải phần mềm**: Tự động kiểm tra quyền ghi thực tế của thư mục lưu trữ và chuyển hướng thông minh sang LocalAppData an toàn khi ứng dụng được cài đặt tại ổ C:\\Program Files, giúp tải và lưu trữ bộ cài phần mềm trơn tru không bị chặn.\n- **Chuẩn hóa nhận dạng Windows 11 Pro**: Tối ưu thuật toán đọc thông tin hệ điều hành từ Registry (EditionID, CompositionEditionID, DisplayVersion) và chuẩn hóa đồng bộ nhận dạng Windows 11 Pro trên 100% máy trạm trong phòng máy.\n- **Nâng cấp ngầm Client tự động \u0026 an toàn**: Luôn luôn biên dịch bộ cài đặt Inno Setup Client (VietLab_Client_Setup.exe) đóng gói sẵn vào Server, sửa lỗi nhận nhầm file và hỗ trợ cơ chế ghi đè an toàn khi máy trạm cập nhật phiên bản mới.\n- **Đồng bộ phiên bản Client \u0026 Server v3.0.4**: Đảm bảo quy trình phát lệnh nâng cấp ngầm từ xa chạy mượt mà, máy con tự động nhận diện và cập nhật thành công lên v3.0.4.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/vietlab-v3.0.5/VietLab_v3.0.5.zip",
+    "sha256":  "B336106A64075CCA715D026F1DF3EB140B88EAAE331284298074788249816F71",
+    "changelog":  "### VietLab v3.0.5 - Tối ưu Sơ đồ Phòng máy \u0026 Tinh gọn Nút Điều khiển Máy trạm\n\n- **Khắc phục triệt để lỗi tràn nội dung Card sơ đồ**: Bỏ giới hạn chiều cao cố định cứng, chuyển sang cơ chế co giãn linh hoạt theo nội dung thực tế (`min-h-[195px] h-full` kết hợp CSS Grid `items-stretch`). Đảm bảo card luôn bao trọn 100% nội dung (tên máy, họ tên học sinh, IP/phiên bản, dải icon công tắc trạng thái và toàn bộ các huy hiệu Màn đen, Chặn web, Cần update...) mà không bị cắt xén hay che khuất.\n- **Tinh gọn nút Điều khiển thành dạng Icon**: Chuyển nút \"Điều khiển\" ở chân card sơ đồ sang biểu tượng game controller duy nhất (`fa-gamepad`), giúp cụm nút chân card cân đối, đồng đều và hiển thị hoàn hảo ngay cả khi thu nhỏ kích thước card về 155px.\n- **Thao tác nhấp đúp tiện lợi**: Bổ sung thao tác nhấp đúp chuột trực tiếp vào card máy trên sơ đồ để phóng to ảnh chụp màn hình máy trạm ngay lập tức.\n- **Đồng bộ phiên bản Client \u0026 Server v3.0.5**: Đồng bộ số hiệu phiên bản 3.0.5 trên toàn hệ thống Server và Client Agent.",
     "isMandatory":  false
 }
