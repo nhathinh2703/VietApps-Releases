@@ -3,9 +3,9 @@
     "appName":  "VietTest",
     "version":  "3.0.0",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-11-15",
+    "releaseDate":  "2026-11-16",
     "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v3.0.0/VietTest_v3.0.0.zip",
-    "sha256":  "601B772086216F24C36EC8DD412A5BAEECA759B40B77DAC7736ABF6AC0AB3BB7",
+    "sha256":  "779C0899629825FE8898D097FD2C7D76A1DE68DDE4EA8BEC8BC4D1539AC0B355",
     "changelog":  "### VietTest v3.0.0 - Khảo thí \u0026 Chấm thi thông minh\n\n- Tổ chức thi phòng máy LAN tốc độ cao, giám sát thời gian thực.\n- Tự động nhận diện card mạng LAN, hiển thị mã QR và IP sắc nét.\n- Chấm thi tự luận bằng AI với cơ chế hàng đợi chống nghẽn API.\n- Giao diện khung Card đơn khối, tối ưu quản lý ca thi và thí sinh.",
     "isMandatory":  false
 }
