@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "3.0.0",
+    "version":  "3.0.1",
     "minRequiredVersion":  "1.0.0",
-    "releaseDate":  "2026-11-16",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v3.0.0/VietTest_v3.0.0.zip",
-    "sha256":  "779C0899629825FE8898D097FD2C7D76A1DE68DDE4EA8BEC8BC4D1539AC0B355",
-    "changelog":  "### VietTest v3.0.0 - Khảo thí \u0026 Chấm thi thông minh\n\n- Tổ chức thi phòng máy LAN tốc độ cao, giám sát thời gian thực.\n- Tự động nhận diện card mạng LAN, hiển thị mã QR và IP sắc nét.\n- Chấm thi tự luận bằng AI với cơ chế hàng đợi chống nghẽn API.\n- Giao diện khung Card đơn khối, tối ưu quản lý ca thi và thí sinh.",
+    "releaseDate":  "2026-11-17",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v3.0.1/VietTest_v3.0.1.zip",
+    "sha256":  "624B0FB2678C7318896AD7C19F9F31B18F5202894A95F97098BB450D9E4625B1",
+    "changelog":  "### VietTest v3.0.1 - Nâng cấp Xuất điểm kỳ thi \u0026 Quản lý ca thi\n\n- Xuất bảng điểm toàn bộ kỳ thi ra file Excel duy nhất: Mỗi ca thi 1 sheet, kèm trang Tổng quan kỳ thi và siêu liên kết Hyperlink chuyển sheet nhanh chóng.\n- Bổ sung cột Điểm làm tròn sau Tổng điểm theo chuẩn quy chế Bộ GD\u0026ĐT (làm tròn 1 số thập phân, ví dụ 6.25 -\u003e 6.3).\n- Tinh gọn quản lý thí sinh: Hợp nhất chức năng Thêm thí sinh và Vét thí sinh vắng thi thành 1 nút trực quan, tự động nhận diện và đề xuất vét thí sinh thi bù.\n- Sửa lỗi lọc dữ liệu khối/lớp cho các ca thi được thêm thủ công (Chưa có ca, Theo lớp, Tùy chọn từng em).\n- Hiển thị trực quan số lượng thí sinh chưa thi cần chuyển ca ngay trên nút bấm.\n- Cải tiến giao diện di động, hướng dẫn phòng thi và tối ưu trải nghiệm thi phòng máy LAN.",
     "isMandatory":  false
 }
