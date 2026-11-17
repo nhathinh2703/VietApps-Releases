@@ -1,11 +1,11 @@
 {
     "appId":  "VietTest",
     "appName":  "VietTest",
-    "version":  "3.0.1",
+    "version":  "3.0.2",
     "minRequiredVersion":  "1.0.0",
     "releaseDate":  "2026-11-17",
-    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v3.0.1/VietTest_v3.0.1.zip",
-    "sha256":  "30D8AF25075DAC1781D2FD335896AC7959DD5BACBB12D1A5382B0AA7E48787F1",
-    "changelog":  "### VietTest v3.0.1 - Nâng cấp Xuất điểm kỳ thi \u0026 Quản lý ca thi\n\n- Xuất bảng điểm toàn bộ kỳ thi ra file Excel duy nhất: Mỗi ca thi 1 sheet, kèm trang Tổng quan kỳ thi và siêu liên kết Hyperlink chuyển sheet nhanh chóng.\n- Chuẩn hóa tên file \u0026 thư mục không dấu tiếng Việt (ASCII an toàn): Tên file xuất bảng điểm, danh sách thí sinh và thư mục hồ sơ trọn bộ được tự động chuyển thành dạng không dấu, chống lỗi font/đường dẫn trên Windows.\n- Bổ sung cột Điểm làm tròn sau Tổng điểm theo chuẩn quy chế Bộ GD\u0026ĐT (làm tròn 1 số thập phân, ví dụ 6.25 -\u003e 6.3).\n- Tinh gọn quản lý thí sinh: Hợp nhất chức năng Thêm thí sinh và Vét thí sinh vắng thi thành 1 nút trực quan, tự động nhận diện và đề xuất vét thí sinh thi bù.\n- Sửa lỗi lọc dữ liệu khối/lớp cho các ca thi được thêm thủ công (Chưa có ca, Theo lớp, Tùy chọn từng em).\n- Hiển thị trực quan số lượng thí sinh chưa thi cần chuyển ca ngay trên nút bấm.\n- Cải tiến giao diện di động, hướng dẫn phòng thi và tối ưu trải nghiệm thi phòng máy LAN.",
+    "downloadUrl":  "https://github.com/nhathinh2703/VietApps-Releases/releases/download/viettest-v3.0.2/VietTest_v3.0.2.zip",
+    "sha256":  "6C7707D6B3988DFB50AA8D2B7CFE66D7C44FAFA915C7E626A2375A9B5BAA53F8",
+    "changelog":  "### VietTest v3.0.2 - Nâng cấp Tên Sheet Excel \u0026 Chuẩn hóa định dạng\n\n- Tên sheet bảng điểm Excel bổ sung khối lớp: Hiển thị đầy đủ Môn thi + Khối lớp + Ca thi (ví dụ: Toán 12A1_Ca 1, Anh 12_Ca 1, Tin 10_Ca 2), trực quan và dễ phân loại khi mở file Excel.\n- Tự động chuẩn hóa tên tệp và thư mục sang ASCII không dấu: Chống lỗi font chữ, đường dẫn và tệp hỏng trên hệ điều hành Windows khi xuất bảng điểm và hồ sơ thi trọn bộ.\n- Bổ sung cột Điểm làm tròn sau Tổng điểm theo chuẩn quy chế Bộ GD\u0026ĐT (làm tròn 1 số thập phân, ví dụ 6.25 -\u003e 6.3).\n- Tinh gọn quản lý thí sinh: Hợp nhất chức năng Thêm thí sinh và Vét thí sinh vắng thi thành 1 nút trực quan, tự động nhận diện và đề xuất vét thí sinh thi bù.\n- Sửa lỗi lọc dữ liệu khối/lớp cho các ca thi được thêm thủ công (Chưa có ca, Theo lớp, Tùy chọn từng em).\n- Hiển thị trực quan số lượng thí sinh chưa thi cần chuyển ca ngay trên nút bấm.\n- Cải tiến giao diện di động, hướng dẫn phòng thi và tối ưu trải nghiệm thi phòng máy LAN.",
     "isMandatory":  false
 }
