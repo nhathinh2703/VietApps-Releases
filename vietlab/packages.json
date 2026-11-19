@@ -137,16 +137,31 @@
     },
     {
         "Id":  "geogebra",
+        "Name":  "GeoGebra Classic 5",
+        "Category":  "Giáo dục",
+        "Description":  "Phần mềm toán học \u0026 hình học động 2D/3D trực quan chuẩn SGK GDPT 2018 (MSI)",
+        "IconClass":  "fa-solid fa-shapes text-sky-500",
+        "FileName":  "GeoGebra-Windows-Installer-5.msi",
+        "DownloadUrl":  "https://download.geogebra.org/package/win-msi",
+        "SilentArguments":  "/qn /norestart ALLUSERS=1",
+        "RunAsAdmin":  true,
+        "IsOpenSource":  true,
+        "Group":  "Nguồn mở",
+        "Note":  "Bản chuẩn phòng máy trường học: Offline, giao diện menu truyền thống đầy đủ, mượt mà và nhẹ nhàng, đúng chuẩn SGK GDPT 2018."
+    },
+    {
+        "Id":  "geogebra6",
         "Name":  "GeoGebra Classic 6",
         "Category":  "Giáo dục",
-        "Description":  "Phần mềm toán học \u0026 hình học động trực quan phục vụ dạy và học Toán - Tin học",
-        "IconClass":  "fa-solid fa-shapes text-sky-500",
+        "Description":  "Phần mềm toán học \u0026 hình học động giao diện phẳng hiện đại (Electron)",
+        "IconClass":  "fa-solid fa-shapes text-indigo-500",
         "FileName":  "GeoGebra-Windows-Installer-6.exe",
         "DownloadUrl":  "https://download.geogebra.org/package/win-autoupdate",
-        "SilentArguments":  "/S",
+        "SilentArguments":  "--silent",
         "RunAsAdmin":  true,
-        "IsOpenSource":  false,
-        "Group":  "Tự do"
+        "IsOpenSource":  true,
+        "Group":  "Nguồn mở",
+        "Note":  "Bản giao diện phẳng hiện đại theo phong cách Web/Tablet."
     },
     {
         "Id":  "gcompris",
