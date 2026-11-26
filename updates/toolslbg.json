@@ -4,8 +4,8 @@
   "version": "1.0.1",
   "minRequiredVersion": "1.0.0",
   "releaseDate": "2026-11-26",
-  "downloadUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/download/v1.0.1/ToolsLBG_Setup.exe",
-  "sha256": "",
+  "downloadUrl": "https://github.com/nhathinh2703/VietApps-Releases/releases/download/toolslbg-v1.0.1/ToolsLBG_v1.0.1.zip",
+  "sha256": "D0F099B726CF4B0152F719404EAB873AA9624E2A1EA8CD4F13B7809ABFB972E9",
   "changelog": "### Tools-LBG v1.0.1 - Bản cập nhật cải tiến\n\n- Sửa tiêu đề phần 1: Tinh gọn thành '1. CHỌN DỮ LIỆU ĐẦU VÀO'.\n- Tích hợp kiểm tra cập nhật online tự động qua VietUpdate.\n- Cố định kích thước cửa sổ ứng dụng (FixedSingle) chống vỡ khung hình.",
   "isMandatory": false
 }
